@@ -1,0 +1,4624 @@
+{
+	"beers": [
+		{
+			"id": "2",
+			"company": "Abita Brewing Co.",
+			"name": "Amber",
+			"url": "http://www.beeradvocate.com/beer/profile/3/5",
+			"type": "Vienna Lager",
+			"abv": "4.5%",
+			"bascore": "77",
+			"broscore": "90"
+		},
+		{
+			"id": "3",
+			"company": "Abita Brewing Co.",
+			"name": "Jockamo IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/3/39390",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "79",
+			"broscore": "N/A"
+		},
+		{
+			"id": "4",
+			"company": "Abita Brewing Co.",
+			"name": "Purple Haze",
+			"url": "http://www.beeradvocate.com/beer/profile/3/7",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.2%",
+			"bascore": "73",
+			"broscore": "88"
+		},
+		{
+			"id": "5",
+			"company": "Abita Brewing Co.",
+			"name": "Turbodog",
+			"url": "http://www.beeradvocate.com/beer/profile/3/6",
+			"type": "English Brown Ale",
+			"abv": "5.6%",
+			"bascore": "82",
+			"broscore": "90"
+		},
+		{
+			"id": "6",
+			"company": "Allagash Brewing Co.",
+			"name": "Allagash Black",
+			"url": "http://www.beeradvocate.com/beer/profile/4/40051",
+			"type": "Belgian Strong Dark Ale",
+			"abv": "7.5%",
+			"bascore": "90",
+			"broscore": "94"
+		},
+		{
+			"id": "7",
+			"company": "Allagash Brewing Co.",
+			"name": "Allagash Blonde Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/4/60712",
+			"type": "Belgian Pale Ale",
+			"abv": "6.86%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "8",
+			"company": "Allagash Brewing Co.",
+			"name": "Allagash Peeterman",
+			"url": "http://www.beeradvocate.com/beer/profile/4/77226",
+			"type": "American Wild Ale",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "9",
+			"company": "Allagash Brewing Co.",
+			"name": "Allagash White",
+			"url": "http://www.beeradvocate.com/beer/profile/4/59",
+			"type": "Witbier",
+			"abv": "5.2%",
+			"bascore": "92",
+			"broscore": "100"
+		},
+		{
+			"id": "10",
+			"company": "Alltechâ€™s Lexington Brewing and Distilling Co.",
+			"name": "Kentucky Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/430/1297",
+			"type": "English Pale Ale",
+			"abv": "5.34%",
+			"bascore": "76",
+			"broscore": "N/A"
+		},
+		{
+			"id": "11",
+			"company": "Alltechâ€™s Lexington Brewing and Distilling Co.",
+			"name": "Kentucky Bourbon Barrel Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/430/18698",
+			"type": "American Strong Ale",
+			"abv": "8.19%",
+			"bascore": "83",
+			"broscore": "85"
+		},
+		{
+			"id": "12",
+			"company": "Alltechâ€™s Lexington Brewing and Distilling Co.",
+			"name": "Kentucky Light",
+			"url": "http://www.beeradvocate.com/beer/profile/430/12766",
+			"type": "KÃ¶lsch",
+			"abv": "4.32%",
+			"bascore": "78",
+			"broscore": "71"
+		},
+		{
+			"id": "13",
+			"company": "Amherst Brewing Co.",
+			"name": "Barrel Aged Black Friday Russian Imperial Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/225/80548",
+			"type": "Russian Imperial Stout",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "14",
+			"company": "Amherst Brewing Co.",
+			"name": "Black Friday Russian Imperial Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/225/80547",
+			"type": "Russian Imperial Stout",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "15",
+			"company": "Amherst Brewing Co.",
+			"name": "Cascade I.P.A.",
+			"url": "http://www.beeradvocate.com/beer/profile/225/6266",
+			"type": "American IPA",
+			"abv": "5.3%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "16",
+			"company": "Amherst Brewing Co.",
+			"name": "Honey Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/225/6264",
+			"type": "American Pale Lager",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "17",
+			"company": "Amherst Brewing Co.",
+			"name": "St. Valentines Day Massatucky",
+			"url": "http://www.beeradvocate.com/beer/profile/225/80865",
+			"type": "American Wild Ale",
+			"abv": "5.4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "18",
+			"company": "Amherst Brewing Co.",
+			"name": "Wedding Witte",
+			"url": "http://www.beeradvocate.com/beer/profile/225/80546",
+			"type": "Witbier",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "19",
+			"company": "Anderson Valley Brewing Co.",
+			"name": "Barney Flats Oatmeal Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/193/615",
+			"type": "Oatmeal Stout",
+			"abv": "5.7%",
+			"bascore": "91",
+			"broscore": "100"
+		},
+		{
+			"id": "20",
+			"company": "Anderson Valley Brewing Co.",
+			"name": "Boont Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/193/623",
+			"type": "American Amber / Red Ale",
+			"abv": "5.8%",
+			"bascore": "87",
+			"broscore": "95"
+		},
+		{
+			"id": "21",
+			"company": "Anderson Valley Brewing Co.",
+			"name": "Summer Solstice Cerveza Crema",
+			"url": "http://www.beeradvocate.com/beer/profile/193/23506",
+			"type": "Cream Ale",
+			"abv": "5.6%",
+			"bascore": "84",
+			"broscore": "85"
+		},
+		{
+			"id": "22",
+			"company": "Ass Kisser Ales",
+			"name": "Ass Kisser Double IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/27681/59622",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "76",
+			"broscore": "N/A"
+		},
+		{
+			"id": "23",
+			"company": "Ass Kisser Ales",
+			"name": "Ass Kisser Vanilla Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/27681/74238",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.5%",
+			"bascore": "71",
+			"broscore": "N/A"
+		},
+		{
+			"id": "24",
+			"company": "Avery Brewing Co.",
+			"name": "Avery India Pale Ale (IPA)",
+			"url": "http://www.beeradvocate.com/beer/profile/30/2729",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "25",
+			"company": "Avery Brewing Co.",
+			"name": "Hog Heaven Barley Wine",
+			"url": "http://www.beeradvocate.com/beer/profile/30/1490",
+			"type": "American Barleywine",
+			"abv": "9.2%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "26",
+			"company": "Avery Brewing Co.",
+			"name": "White Rascal",
+			"url": "http://www.beeradvocate.com/beer/profile/30/9689",
+			"type": "Witbier",
+			"abv": "5.6%",
+			"bascore": "84",
+			"broscore": "77"
+		},
+		{
+			"id": "27",
+			"company": "Backlash Beer Co.",
+			"name": "Declaration",
+			"url": "http://www.beeradvocate.com/beer/profile/26554/77861",
+			"type": "Belgian IPA",
+			"abv": "7.2%",
+			"bascore": "85",
+			"broscore": "88"
+		},
+		{
+			"id": "28",
+			"company": "Backlash Beer Co.",
+			"name": "Groundswell",
+			"url": "http://www.beeradvocate.com/beer/profile/26554/71728",
+			"type": "Belgian Strong Pale Ale",
+			"abv": "7.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "29",
+			"company": "Baxter Brewing Co.",
+			"name": "Amber Road Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/23922/74632",
+			"type": "American Amber / Red Ale",
+			"abv": "5.5%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "30",
+			"company": "Baxter Brewing Co.",
+			"name": "Celsius Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/23922/80552",
+			"type": "Herbed / Spiced Beer",
+			"abv": "4.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "31",
+			"company": "Baxter Brewing Co.",
+			"name": "Pamola Xtra Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/23922/65518",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.9%",
+			"bascore": "80",
+			"broscore": "84"
+		},
+		{
+			"id": "32",
+			"company": "Baxter Brewing Co.",
+			"name": "Stowaway I.P.A.",
+			"url": "http://www.beeradvocate.com/beer/profile/23922/65842",
+			"type": "American IPA",
+			"abv": "6.9%",
+			"bascore": "86",
+			"broscore": "90"
+		},
+		{
+			"id": "33",
+			"company": "Bear Republic Brewing Co.",
+			"name": "Hop Rod Rye",
+			"url": "http://www.beeradvocate.com/beer/profile/610/3158",
+			"type": "Rye Beer",
+			"abv": "8%",
+			"bascore": "95",
+			"broscore": "100"
+		},
+		{
+			"id": "34",
+			"company": "Bear Republic Brewing Co.",
+			"name": "Racer 5 India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/610/2751",
+			"type": "American IPA",
+			"abv": "7%",
+			"bascore": "94",
+			"broscore": "94"
+		},
+		{
+			"id": "35",
+			"company": "Bear Republic Brewing Co.",
+			"name": "Red Rocket Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/610/1655",
+			"type": "American Amber / Red Ale",
+			"abv": "6.8%",
+			"bascore": "91",
+			"broscore": "97"
+		},
+		{
+			"id": "36",
+			"company": "Beer Works - Fenway",
+			"name": "Bunker Hill Blueberry Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/17/553",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.8%",
+			"bascore": "83",
+			"broscore": "85"
+		},
+		{
+			"id": "37",
+			"company": "Beer Works - Fenway",
+			"name": "Godzilla",
+			"url": "http://www.beeradvocate.com/beer/profile/17/80410",
+			"type": "American Strong Ale",
+			"abv": "15%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "38",
+			"company": "Beer Works - Fenway",
+			"name": "Grand Cru Red",
+			"url": "http://www.beeradvocate.com/beer/profile/17/77721",
+			"type": "Flanders Red Ale",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "39",
+			"company": "Beer Works - Fenway",
+			"name": "Patriot Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/17/757",
+			"type": "Czech Pilsener",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "91"
+		},
+		{
+			"id": "40",
+			"company": "Beer Works - Fenway",
+			"name": "Rosemary IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/17/80557",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "41",
+			"company": "Beer Works - Fenway",
+			"name": "Tell Tale Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/17/34344",
+			"type": "Munich Dunkel Lager",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "42",
+			"company": "Berkshire Brewing Co. Inc.",
+			"name": "Berkshire Czech Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/33/50166",
+			"type": "Czech Pilsener",
+			"abv": "5%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "43",
+			"company": "Berkshire Brewing Co. Inc.",
+			"name": "Coffeehouse Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/33/85",
+			"type": "American Porter",
+			"abv": "6.2%",
+			"bascore": "90",
+			"broscore": "90"
+		},
+		{
+			"id": "44",
+			"company": "Berkshire Brewing Co. Inc.",
+			"name": "Lost Sailor India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/33/89",
+			"type": "English India Pale Ale (IPA)",
+			"abv": "5.5%",
+			"bascore": "88",
+			"broscore": "94"
+		},
+		{
+			"id": "45",
+			"company": "Berkshire Brewing Co. Inc.",
+			"name": "Steel Rail Extra Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/33/93",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.3%",
+			"bascore": "82",
+			"broscore": "86"
+		},
+		{
+			"id": "46",
+			"company": "Big Boss Brewing",
+			"name": "Bad Penny Brown Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/15189/36382",
+			"type": "English Brown Ale",
+			"abv": "5.2%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "47",
+			"company": "Big Boss Brewing",
+			"name": "Big Operator",
+			"url": "http://www.beeradvocate.com/beer/profile/15189/41008",
+			"type": "Belgian Strong Dark Ale",
+			"abv": "8%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "48",
+			"company": "Big Boss Brewing",
+			"name": "High Roller IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/15189/35069",
+			"type": "American IPA",
+			"abv": "6.75%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "49",
+			"company": "Big Boss Brewing",
+			"name": "Monkey Bizz-ness",
+			"url": "http://www.beeradvocate.com/beer/profile/15189/49747",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "8.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "50",
+			"company": "Blatant Brewery",
+			"name": "Blatant IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/26944/74877",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "51",
+			"company": "Blatant Brewery",
+			"name": "Blatant Session Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/26944/74869",
+			"type": "American Blonde Ale",
+			"abv": "3.75%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "52",
+			"company": "Blue Hills Brewery",
+			"name": "Black Hops Beer",
+			"url": "http://www.beeradvocate.com/beer/profile/19213/59877",
+			"type": "American Black Ale",
+			"abv": "6.75%",
+			"bascore": "81",
+			"broscore": "84"
+		},
+		{
+			"id": "53",
+			"company": "Blue Hills Brewery",
+			"name": "Blue Hills India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/19213/47463",
+			"type": "American IPA",
+			"abv": "6.6%",
+			"bascore": "74",
+			"broscore": "68"
+		},
+		{
+			"id": "54",
+			"company": "Blue Hills Brewery",
+			"name": "Comet Tail Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/19213/79019",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "55",
+			"company": "Blue Hills Brewery",
+			"name": "Watermelon Wampatuck Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/19213/51152",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.8%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "56",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Cinder Bock",
+			"url": "http://www.beeradvocate.com/beer/profile/35/77231",
+			"type": "Rauchbier",
+			"abv": "9.45%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "57",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Dark Depths",
+			"url": "http://www.beeradvocate.com/beer/profile/35/77234",
+			"type": "Baltic Porter",
+			"abv": "7.6%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "58",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Norse Legend",
+			"url": "http://www.beeradvocate.com/beer/profile/35/80554",
+			"type": "Sahti",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "59",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Samuel Adams Boston Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/35/104",
+			"type": "Vienna Lager",
+			"abv": "4.9%",
+			"bascore": "87",
+			"broscore": "90"
+		},
+		{
+			"id": "60",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Samuel Adams Oyster Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/35/53463",
+			"type": "Irish Dry Stout",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "61",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Samuel Adams Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/35/103",
+			"type": "American Pale Wheat Ale",
+			"abv": "5.3%",
+			"bascore": "77",
+			"broscore": "78"
+		},
+		{
+			"id": "62",
+			"company": "Boston Beer Co. (Samuel Adams)",
+			"name": "Verloren",
+			"url": "http://www.beeradvocate.com/beer/profile/35/80458",
+			"type": "Gose",
+			"abv": "6%",
+			"bascore": "82",
+			"broscore": "78"
+		},
+		{
+			"id": "63",
+			"company": "Boulevard Brewing Co.",
+			"name": "Double Wide I.P.A.",
+			"url": "http://www.beeradvocate.com/beer/profile/423/39639",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.5%",
+			"bascore": "88",
+			"broscore": "94"
+		},
+		{
+			"id": "64",
+			"company": "Boulevard Brewing Co.",
+			"name": "Saison - Brett",
+			"url": "http://www.beeradvocate.com/beer/profile/423/36333",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "8.5%",
+			"bascore": "95",
+			"broscore": "100"
+		},
+		{
+			"id": "65",
+			"company": "Boulevard Brewing Co.",
+			"name": "Tank 7 Farmhouse Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/423/50570",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "8%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "66",
+			"company": "Boulevard Brewing Co.",
+			"name": "Test Saison Noir",
+			"url": "http://www.beeradvocate.com/beer/profile/423/80558",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "8.75%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "67",
+			"company": "Brewery Ommegang",
+			"name": "Gnomegang",
+			"url": "http://www.beeradvocate.com/beer/profile/42/65200",
+			"type": "Belgian Strong Pale Ale",
+			"abv": "9.5%",
+			"bascore": "91",
+			"broscore": "90"
+		},
+		{
+			"id": "68",
+			"company": "Brewery Ommegang",
+			"name": "Hennepin (Farmhouse Saison)",
+			"url": "http://www.beeradvocate.com/beer/profile/42/141",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "7.7%",
+			"bascore": "93",
+			"broscore": "96"
+		},
+		{
+			"id": "69",
+			"company": "Brewery Ommegang",
+			"name": "Ommegang (Abbey Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/42/142",
+			"type": "Dubbel",
+			"abv": "8.5%",
+			"bascore": "92",
+			"broscore": "100"
+		},
+		{
+			"id": "70",
+			"company": "Brewery Ommegang",
+			"name": "Ommegang Adoration Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/42/51619",
+			"type": "Belgian Strong Dark Ale",
+			"abv": "10%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "71",
+			"company": "Brewery Ommegang",
+			"name": "Ommegang BPA (Belgian-style Pale Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/42/56875",
+			"type": "Belgian Pale Ale",
+			"abv": "6.2%",
+			"bascore": "90",
+			"broscore": "90"
+		},
+		{
+			"id": "72",
+			"company": "Brewery Ommegang",
+			"name": "Ommegang Witte",
+			"url": "http://www.beeradvocate.com/beer/profile/42/16506",
+			"type": "Witbier",
+			"abv": "5.1%",
+			"bascore": "85",
+			"broscore": "78"
+		},
+		{
+			"id": "73",
+			"company": "Brewery Ommegang",
+			"name": "Rare Vos (Amber Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/42/593",
+			"type": "Belgian Pale Ale",
+			"abv": "6.5%",
+			"bascore": "90",
+			"broscore": "98"
+		},
+		{
+			"id": "74",
+			"company": "Brewery Ommegang",
+			"name": "Seduction",
+			"url": "http://www.beeradvocate.com/beer/profile/42/76521",
+			"type": "Belgian Dark Ale",
+			"abv": "6.8%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "75",
+			"company": "Brewery Ommegang",
+			"name": "Three Philosophers Belgian Style Blend (Quadrupel)",
+			"url": "http://www.beeradvocate.com/beer/profile/42/3457",
+			"type": "Quadrupel (Quad)",
+			"abv": "9.8%",
+			"bascore": "92",
+			"broscore": "92"
+		},
+		{
+			"id": "76",
+			"company": "Brewmaster Jack",
+			"name": "Stray Dog Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/28428/80475",
+			"type": "American Amber / Red Lager",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "77",
+			"company": "Bridge Brew Works LLC",
+			"name": "Baltic Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/80563",
+			"type": "Baltic Porter",
+			"abv": "7.16%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "78",
+			"company": "Bridge Brew Works LLC",
+			"name": "Black Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/57773",
+			"type": "Schwarzbier",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "79",
+			"company": "Bridge Brew Works LLC",
+			"name": "Bridge Brew Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/57775",
+			"type": "Extra Special / Strong Bitter (ESB)",
+			"abv": "5.56%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "80",
+			"company": "Bridge Brew Works LLC",
+			"name": "Coffee Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/80562",
+			"type": "American Stout",
+			"abv": "5.36%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "81",
+			"company": "Bridge Brew Works LLC",
+			"name": "Dubbel",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/66673",
+			"type": "Dubbel",
+			"abv": "7.08%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "82",
+			"company": "Bridge Brew Works LLC",
+			"name": "Long Point Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/80560",
+			"type": "Dortmunder / Export Lager",
+			"abv": "4.61%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "83",
+			"company": "Bridge Brew Works LLC",
+			"name": "Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/80561",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.84%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "84",
+			"company": "Bridge Brew Works LLC",
+			"name": "Triple",
+			"url": "http://www.beeradvocate.com/beer/profile/22611/67424",
+			"type": "Tripel",
+			"abv": "8.97%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "85",
+			"company": "Brooklyn Brewery",
+			"name": "Brooklyn Blast Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/45/25851",
+			"type": "American Double / Imperial IPA",
+			"abv": "8%",
+			"bascore": "92",
+			"broscore": "N/A"
+		},
+		{
+			"id": "86",
+			"company": "Brooklyn Brewery",
+			"name": "Brooklyn Sorachi Ace",
+			"url": "http://www.beeradvocate.com/beer/profile/45/51480",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "7.6%",
+			"bascore": "92",
+			"broscore": "94"
+		},
+		{
+			"id": "87",
+			"company": "Brooklyn Brewery",
+			"name": "Brooklyn Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/45/32631",
+			"type": "English Pale Ale",
+			"abv": "5%",
+			"bascore": "82",
+			"broscore": "80"
+		},
+		{
+			"id": "88",
+			"company": "Brooklyn Brewery",
+			"name": "Companion Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/45/73413",
+			"type": "Wheatwine",
+			"abv": "9%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "89",
+			"company": "Brooklyn Brewery",
+			"name": "Gold Standard Export Kellerbier",
+			"url": "http://www.beeradvocate.com/beer/profile/45/80564",
+			"type": "Keller Bier / Zwickel Bier",
+			"abv": "6.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "90",
+			"company": "Bull Jagger Brewing Co.",
+			"name": "Big Claw Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/26975/80565",
+			"type": "Czech Pilsener",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "91",
+			"company": "Bull Jagger Brewing Co.",
+			"name": "Original No. 19 Baltic Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/26975/79307",
+			"type": "Baltic Porter",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "92",
+			"company": "Bull Jagger Brewing Co.",
+			"name": "Portland Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/26975/74419",
+			"type": "Munich Helles Lager",
+			"abv": "4.5%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "93",
+			"company": "Butternuts Beer & Ale",
+			"name": "Moo Thunder Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/13302/36056",
+			"type": "Milk / Sweet Stout",
+			"abv": "4.9%",
+			"bascore": "81",
+			"broscore": "90"
+		},
+		{
+			"id": "94",
+			"company": "Butternuts Beer & Ale",
+			"name": "Porkslap Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/13302/28751",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.3%",
+			"bascore": "75",
+			"broscore": "N/A"
+		},
+		{
+			"id": "95",
+			"company": "Butternuts Beer & Ale",
+			"name": "Snapperhead IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/13302/34968",
+			"type": "American IPA",
+			"abv": "6.8%",
+			"bascore": "74",
+			"broscore": "N/A"
+		},
+		{
+			"id": "96",
+			"company": "Cambridge Brewing Co.",
+			"name": "Arquebus",
+			"url": "http://www.beeradvocate.com/beer/profile/14/31703",
+			"type": "English Barleywine",
+			"abv": "10.75%",
+			"bascore": "92",
+			"broscore": "N/A"
+		},
+		{
+			"id": "97",
+			"company": "Cambridge Brewing Co.",
+			"name": "Blunderbuss Barley Wine",
+			"url": "http://www.beeradvocate.com/beer/profile/14/510",
+			"type": "American Barleywine",
+			"abv": "11.5%",
+			"bascore": "93",
+			"broscore": "96"
+		},
+		{
+			"id": "98",
+			"company": "Cambridge Brewing Co.",
+			"name": "Brett Grisette",
+			"url": "http://www.beeradvocate.com/beer/profile/14/80864",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "3.9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "99",
+			"company": "Cambridge Brewing Co.",
+			"name": "Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/14/507",
+			"type": "Hefeweizen",
+			"abv": "6%",
+			"bascore": "90",
+			"broscore": "93"
+		},
+		{
+			"id": "100",
+			"company": "Cambridge Brewing Co.",
+			"name": "Red God IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/14/13816",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "101",
+			"company": "Cambridge Brewing Co.",
+			"name": "Tall Tale Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/14/513",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.9%",
+			"bascore": "86",
+			"broscore": "92"
+		},
+		{
+			"id": "102",
+			"company": "Cape Cod Beer",
+			"name": "Cape Cod Beach Blonde",
+			"url": "http://www.beeradvocate.com/beer/profile/9602/61249",
+			"type": "American Blonde Ale",
+			"abv": "4.9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "103",
+			"company": "Cape Cod Beer",
+			"name": "Cape Cod IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/9602/17593",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "88",
+			"broscore": "83"
+		},
+		{
+			"id": "104",
+			"company": "Cape Cod Beer",
+			"name": "Cape Cod Red",
+			"url": "http://www.beeradvocate.com/beer/profile/9602/17592",
+			"type": "American Amber / Red Ale",
+			"abv": "5.5%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "105",
+			"company": "Cape Cod Beer",
+			"name": "Cape Cod Summer",
+			"url": "http://www.beeradvocate.com/beer/profile/9602/24420",
+			"type": "Hefeweizen",
+			"abv": "5%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "106",
+			"company": "Cisco Brewers Inc.",
+			"name": "Indie Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/261/40242",
+			"type": "American IPA",
+			"abv": "7.58%",
+			"bascore": "85",
+			"broscore": "90"
+		},
+		{
+			"id": "107",
+			"company": "Cisco Brewers Inc.",
+			"name": "Island Reserve: Lager (Oak Aged Bohemian-Vienna Style Lager)",
+			"url": "http://www.beeradvocate.com/beer/profile/261/80568",
+			"type": "Euro Pale Lager",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "108",
+			"company": "Cisco Brewers Inc.",
+			"name": "Island Reserve: Russian Imperial Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/261/78786",
+			"type": "Russian Imperial Stout",
+			"abv": "13.5%",
+			"bascore": "78",
+			"broscore": "N/A"
+		},
+		{
+			"id": "109",
+			"company": "Cisco Brewers Inc.",
+			"name": "Island Reserve: Saison Farmhouse Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/261/74719",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "6%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "110",
+			"company": "Cisco Brewers Inc.",
+			"name": "Island Reserve: Tripel",
+			"url": "http://www.beeradvocate.com/beer/profile/261/80566",
+			"type": "Tripel",
+			"abv": "9.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "111",
+			"company": "Cisco Brewers Inc.",
+			"name": "Sankaty Light",
+			"url": "http://www.beeradvocate.com/beer/profile/261/23628",
+			"type": "Light Lager",
+			"abv": "3.8%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "112",
+			"company": "Cisco Brewers Inc.",
+			"name": "Summer Of Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/261/925",
+			"type": "Munich Helles Lager",
+			"abv": "6.25%",
+			"bascore": "86",
+			"broscore": "83"
+		},
+		{
+			"id": "113",
+			"company": "Clown Shoes",
+			"name": "Blaecorn Unidragon",
+			"url": "http://www.beeradvocate.com/beer/profile/22951/73427",
+			"type": "Russian Imperial Stout",
+			"abv": "12.5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "114",
+			"company": "Clown Shoes",
+			"name": "Lubrication",
+			"url": "http://www.beeradvocate.com/beer/profile/22951/70623",
+			"type": "American Black Ale",
+			"abv": "6%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "115",
+			"company": "Clown Shoes",
+			"name": "Miracle",
+			"url": "http://www.beeradvocate.com/beer/profile/22951/80043",
+			"type": "American IPA",
+			"abv": "5.5%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "116",
+			"company": "Clown Shoes",
+			"name": "Muffin Top",
+			"url": "http://www.beeradvocate.com/beer/profile/22951/72751",
+			"type": "Belgian IPA",
+			"abv": "10%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "117",
+			"company": "Clown Shoes",
+			"name": "Supa Hero",
+			"url": "http://www.beeradvocate.com/beer/profile/22951/76170",
+			"type": "American Double / Imperial IPA",
+			"abv": "8%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "118",
+			"company": "Coastal Extreme Brewing Co.",
+			"name": "Newport Storm - Tim (Cyclone Series)",
+			"url": "http://www.beeradvocate.com/beer/profile/688/80861",
+			"type": "Dunkelweizen",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "119",
+			"company": "Coastal Extreme Brewing Co.",
+			"name": "Newport Storm Hurricane Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/688/3153",
+			"type": "American Amber / Red Ale",
+			"abv": "5.2%",
+			"bascore": "74",
+			"broscore": "64"
+		},
+		{
+			"id": "120",
+			"company": "Coastal Extreme Brewing Co.",
+			"name": "Newport Storm Rhode Island Blueberry",
+			"url": "http://www.beeradvocate.com/beer/profile/688/31193",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.6%",
+			"bascore": "78",
+			"broscore": "70"
+		},
+		{
+			"id": "121",
+			"company": "Coastal Extreme Brewing Co.",
+			"name": "Newport Storm Summer Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/688/80618",
+			"type": "American Pale Wheat Ale",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "122",
+			"company": "Cody Brewing Co.",
+			"name": "Farmhouse IPA (Belgian/ American Farmhouse Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/80723",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "123",
+			"company": "Cody Brewing Co.",
+			"name": "Gee Mans Lemon Honey Hypnotic Tonic",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/80570",
+			"type": "American Strong Ale",
+			"abv": "8.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "124",
+			"company": "Cody Brewing Co.",
+			"name": "Honey Gingah Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/80569",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "125",
+			"company": "Cody Brewing Co.",
+			"name": "J Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/41192",
+			"type": "American Double / Imperial Stout",
+			"abv": "10%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "126",
+			"company": "Cody Brewing Co.",
+			"name": "S.O.S.",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/39951",
+			"type": "Belgian IPA",
+			"abv": "5.5%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "127",
+			"company": "Cody Brewing Co.",
+			"name": "Wheelers Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/16456/62905",
+			"type": "American Brown Ale",
+			"abv": "5.7%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "128",
+			"company": "Cooperstown Brewing Co.",
+			"name": "Back Yard India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/60/1599",
+			"type": "English India Pale Ale (IPA)",
+			"abv": "6.1%",
+			"bascore": "78",
+			"broscore": "80"
+		},
+		{
+			"id": "129",
+			"company": "Cooperstown Brewing Co.",
+			"name": "Benchwarmer Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/60/176",
+			"type": "English Porter",
+			"abv": "6.3%",
+			"bascore": "86",
+			"broscore": "92"
+		},
+		{
+			"id": "130",
+			"company": "Cooperstown Brewing Co.",
+			"name": "Nine Man Ale Golden Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/60/175",
+			"type": "American Blonde Ale",
+			"abv": "4.3%",
+			"bascore": "78",
+			"broscore": "81"
+		},
+		{
+			"id": "131",
+			"company": "Cooperstown Brewing Co.",
+			"name": "Old Slugger",
+			"url": "http://www.beeradvocate.com/beer/profile/60/1598",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.5%",
+			"bascore": "81",
+			"broscore": "74"
+		},
+		{
+			"id": "132",
+			"company": "Cottrell Brewing Co.",
+			"name": "Cottrell Old Yankee Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/61/179",
+			"type": "American Pale Ale (APA)",
+			"abv": "5%",
+			"bascore": "86",
+			"broscore": "100"
+		},
+		{
+			"id": "133",
+			"company": "Cottrell Brewing Co.",
+			"name": "Mystic Bridge IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/61/52252",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "82",
+			"broscore": "90"
+		},
+		{
+			"id": "134",
+			"company": "DC Brau Brewing Co.",
+			"name": "On The Wings Of Armageddon",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/78517",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.2%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "135",
+			"company": "DC Brau Brewing Co.",
+			"name": "Penn Quarter Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/68978",
+			"type": "American Porter",
+			"abv": "5.5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "136",
+			"company": "DC Brau Brewing Co.",
+			"name": "Stone Of Arbroath",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/79708",
+			"type": "Scotch Ale / Wee Heavy",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "137",
+			"company": "DC Brau Brewing Co.",
+			"name": "The Citizen",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/70998",
+			"type": "Belgian Pale Ale",
+			"abv": "7%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "138",
+			"company": "DC Brau Brewing Co.",
+			"name": "The Corruption",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/69290",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "87",
+			"broscore": "93"
+		},
+		{
+			"id": "139",
+			"company": "DC Brau Brewing Co.",
+			"name": "The Public Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/25327/68154",
+			"type": "American Pale Ale (APA)",
+			"abv": "6%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "140",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "120 Minute IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/64/9086",
+			"type": "American Double / Imperial IPA",
+			"abv": "18%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "141",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "60 Minute IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/64/6108",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "91",
+			"broscore": "92"
+		},
+		{
+			"id": "142",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "90 Minute IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/64/2093",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "95",
+			"broscore": "93"
+		},
+		{
+			"id": "143",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "Festina Pêche",
+			"url": "http://www.beeradvocate.com/beer/profile/64/35720",
+			"type": "Berliner Weissbier",
+			"abv": "4.5%",
+			"bascore": "82",
+			"broscore": "94"
+		},
+		{
+			"id": "144",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "Namaste",
+			"url": "http://www.beeradvocate.com/beer/profile/64/53453",
+			"type": "Witbier",
+			"abv": "5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "145",
+			"company": "Dogfish Head Craft Brewery",
+			"name": "Theobroma",
+			"url": "http://www.beeradvocate.com/beer/profile/64/41702",
+			"type": "Chile Beer",
+			"abv": "9%",
+			"bascore": "84",
+			"broscore": "100"
+		},
+		{
+			"id": "146",
+			"company": "Element Brewing Co.",
+			"name": "6:56 (Double Red Giant 2011)",
+			"url": "http://www.beeradvocate.com/beer/profile/22202/76407",
+			"type": "American Amber / Red Ale",
+			"abv": "13%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "147",
+			"company": "Element Brewing Co.",
+			"name": "Dark Element",
+			"url": "http://www.beeradvocate.com/beer/profile/22202/58887",
+			"type": "American Black Ale",
+			"abv": "8%",
+			"bascore": "91",
+			"broscore": "90"
+		},
+		{
+			"id": "148",
+			"company": "Element Brewing Co.",
+			"name": "Extra Special Oak (ESO)",
+			"url": "http://www.beeradvocate.com/beer/profile/22202/58246",
+			"type": "English Strong Ale",
+			"abv": "7.75%",
+			"bascore": "85",
+			"broscore": "94"
+		},
+		{
+			"id": "149",
+			"company": "Element Brewing Co.",
+			"name": "Red Giant",
+			"url": "http://www.beeradvocate.com/beer/profile/22202/56425",
+			"type": "American Amber / Red Ale",
+			"abv": "8%",
+			"bascore": "87",
+			"broscore": "94"
+		},
+		{
+			"id": "150",
+			"company": "Element Brewing Co.",
+			"name": "Summer Pilsner Fusion",
+			"url": "http://www.beeradvocate.com/beer/profile/22202/69030",
+			"type": "American Double / Imperial Pilsner",
+			"abv": "8.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "151",
+			"company": "Enlightenment Ales",
+			"name": "Enlightenment Brut- Bière De Champagne",
+			"url": "http://www.beeradvocate.com/beer/profile/28742/80584",
+			"type": "BiÃ¨re de Champagne / BiÃ¨re Brut",
+			"abv": "11%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "152",
+			"company": "Enlightenment Ales",
+			"name": "Illumination - Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/28742/80585",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "153",
+			"company": "Enlightenment Ales",
+			"name": "Nip Of A Cap - Belgian-style Table Beer",
+			"url": "http://www.beeradvocate.com/beer/profile/28742/80586",
+			"type": "Belgian Pale Ale",
+			"abv": "3.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "154",
+			"company": "Flying Dog Brewery",
+			"name": "Doggie Style Classic Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/68/1213",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.5%",
+			"bascore": "83",
+			"broscore": "85"
+		},
+		{
+			"id": "155",
+			"company": "Flying Dog Brewery",
+			"name": "Raging Bitch Belgian-Style IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/68/52855",
+			"type": "Belgian IPA",
+			"abv": "8.3%",
+			"bascore": "90",
+			"broscore": "73"
+		},
+		{
+			"id": "156",
+			"company": "Flying Dog Brewery",
+			"name": "UnderDog Atlantic Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/68/80221",
+			"type": "American Pale Lager",
+			"abv": "4.7%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "157",
+			"company": "Flying Dog Brewery",
+			"name": "Wildeman Farmhouse IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/68/77837",
+			"type": "Belgian IPA",
+			"abv": "7.5%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "158",
+			"company": "Flying Dog Brewery",
+			"name": "Woody Creek White",
+			"url": "http://www.beeradvocate.com/beer/profile/68/37014",
+			"type": "Witbier",
+			"abv": "4.8%",
+			"bascore": "85",
+			"broscore": "89"
+		},
+		{
+			"id": "159",
+			"company": "Gardner Ale House",
+			"name": "Downtown Smoky Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/13768/80589",
+			"type": "American Brown Ale",
+			"abv": "5.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "160",
+			"company": "Gardner Ale House",
+			"name": "Face-off",
+			"url": "http://www.beeradvocate.com/beer/profile/13768/54130",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "161",
+			"company": "Gardner Ale House",
+			"name": "Nightcrawler",
+			"url": "http://www.beeradvocate.com/beer/profile/13768/80588",
+			"type": "American Black Ale",
+			"abv": "6.1%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "162",
+			"company": "Goose Island",
+			"name": "312 Urban Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/1146/17141",
+			"type": "American Pale Wheat Ale",
+			"abv": "4.2%",
+			"bascore": "79",
+			"broscore": "83"
+		},
+		{
+			"id": "163",
+			"company": "Goose Island",
+			"name": "Bourbon County Brand Coffee Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/1146/57747",
+			"type": "American Double / Imperial Stout",
+			"abv": "14%",
+			"bascore": "100",
+			"broscore": "N/A"
+		},
+		{
+			"id": "164",
+			"company": "Goose Island",
+			"name": "Imperial IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/1146/14366",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "95",
+			"broscore": "N/A"
+		},
+		{
+			"id": "165",
+			"company": "Goose Island",
+			"name": "India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1146/3968",
+			"type": "English India Pale Ale (IPA)",
+			"abv": "5.9%",
+			"bascore": "88",
+			"broscore": "86"
+		},
+		{
+			"id": "166",
+			"company": "Goose Island",
+			"name": "Matilda",
+			"url": "http://www.beeradvocate.com/beer/profile/1146/4318",
+			"type": "Belgian Strong Pale Ale",
+			"abv": "7%",
+			"bascore": "89",
+			"broscore": "99"
+		},
+		{
+			"id": "167",
+			"company": "Great Divide Brewing Co.",
+			"name": "Chocolate Oak Aged Yeti",
+			"url": "http://www.beeradvocate.com/beer/profile/158/50176",
+			"type": "American Double / Imperial Stout",
+			"abv": "9.5%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "168",
+			"company": "Great Divide Brewing Co.",
+			"name": "Colette Farmhouse Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/158/49374",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "7.3%",
+			"bascore": "86",
+			"broscore": "93"
+		},
+		{
+			"id": "169",
+			"company": "Great Divide Brewing Co.",
+			"name": "Hercules Double IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/158/17060",
+			"type": "American Double / Imperial IPA",
+			"abv": "10%",
+			"bascore": "93",
+			"broscore": "99"
+		},
+		{
+			"id": "170",
+			"company": "Great Divide Brewing Co.",
+			"name": "Hoss Rye Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/158/51631",
+			"type": "MÃ¤rzen / Oktoberfest",
+			"abv": "6.2%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "171",
+			"company": "Harpoon Brewery",
+			"name": "Harpoon Bohemian Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/68225",
+			"type": "Czech Pilsener",
+			"abv": "4.7%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "172",
+			"company": "Harpoon Brewery",
+			"name": "Harpoon Dark",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/314",
+			"type": "Munich Dunkel Lager",
+			"abv": "5.5%",
+			"bascore": "85",
+			"broscore": "91"
+		},
+		{
+			"id": "173",
+			"company": "Harpoon Brewery",
+			"name": "Harpoon Ginger Wheat (100 Barrel Series #42)",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/80704",
+			"type": "Herbed / Spiced Beer",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "174",
+			"company": "Harpoon Brewery",
+			"name": "Harpoon IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/311",
+			"type": "American IPA",
+			"abv": "5.9%",
+			"bascore": "83",
+			"broscore": "83"
+		},
+		{
+			"id": "175",
+			"company": "Harpoon Brewery",
+			"name": "Harpoon Leviathan - Imperial IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/44755",
+			"type": "American Double / Imperial IPA",
+			"abv": "10%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "176",
+			"company": "Harpoon Brewery",
+			"name": "Pilot - Imperial Red",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/80703",
+			"type": "American Strong Ale",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "177",
+			"company": "Harpoon Brewery",
+			"name": "Pilot - White IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/80702",
+			"type": "Witbier",
+			"abv": "6.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "178",
+			"company": "Harpoon Brewery",
+			"name": "UFO White",
+			"url": "http://www.beeradvocate.com/beer/profile/10097/48933",
+			"type": "Witbier",
+			"abv": "4.8%",
+			"bascore": "82",
+			"broscore": "86"
+		},
+		{
+			"id": "179",
+			"company": "Haverhill Brewery & The Tap",
+			"name": "Annie Schwarz Black Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/3185/61898",
+			"type": "Schwarzbier",
+			"abv": "5.1%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "180",
+			"company": "Haverhill Brewery & The Tap",
+			"name": "Commuter Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/3185/80592",
+			"type": "KÃ¶lsch",
+			"abv": "4.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "181",
+			"company": "Haverhill Brewery & The Tap",
+			"name": "Gose The Gozerian",
+			"url": "http://www.beeradvocate.com/beer/profile/3185/80603",
+			"type": "Gose",
+			"abv": "4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "182",
+			"company": "Haverhill Brewery & The Tap",
+			"name": "Leatherlips IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/3185/16779",
+			"type": "American IPA",
+			"abv": "5%",
+			"bascore": "89",
+			"broscore": "95"
+		},
+		{
+			"id": "183",
+			"company": "Haverhill Brewery & The Tap",
+			"name": "Out The Window Czech Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/3185/80593",
+			"type": "Czech Pilsener",
+			"abv": "5.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "184",
+			"company": "Heavy Seas Beer",
+			"name": "Heavy Seas - Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/898/57517",
+			"type": "English Pale Ale",
+			"abv": "4.75%",
+			"bascore": "79",
+			"broscore": "N/A"
+		},
+		{
+			"id": "185",
+			"company": "Heavy Seas Beer",
+			"name": "Heavy Seas - Sea Nymph Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/898/59725",
+			"type": "American Blonde Ale",
+			"abv": "4.5%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "186",
+			"company": "Heavy Seas Beer",
+			"name": "Heavy Seas Letter Of Marque 2012 (Tripel Wit)",
+			"url": "http://www.beeradvocate.com/beer/profile/898/80594",
+			"type": "Tripel",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "187",
+			"company": "Heavy Seas Beer",
+			"name": "Heavy Seas Loose Cannon - American Hop3 Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/898/25755",
+			"type": "American IPA",
+			"abv": "7.25%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "188",
+			"company": "High & Mighty Beer Co.",
+			"name": "Beer Of The Gods",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/30771",
+			"type": "American Blonde Ale",
+			"abv": "4.5%",
+			"bascore": "73",
+			"broscore": "90"
+		},
+		{
+			"id": "189",
+			"company": "High & Mighty Beer Co.",
+			"name": "Don Cornelius",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/79899",
+			"type": "American Brown Ale",
+			"abv": "6.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "190",
+			"company": "High & Mighty Beer Co.",
+			"name": "Pas De Dieux",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/68896",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "4.5%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "191",
+			"company": "High & Mighty Beer Co.",
+			"name": "Purity Of Essence",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/43742",
+			"type": "American Pale Lager",
+			"abv": "5.4%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "192",
+			"company": "High & Mighty Beer Co.",
+			"name": "Sono Distrutto",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/44495",
+			"type": "American Stout",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "193",
+			"company": "High & Mighty Beer Co.",
+			"name": "XPA (Extra Pale Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/13947/30772",
+			"type": "American Pale Ale (APA)",
+			"abv": "5%",
+			"bascore": "80",
+			"broscore": "80"
+		},
+		{
+			"id": "194",
+			"company": "High Horse Brewery and Bistro",
+			"name": "Beyond The Pale",
+			"url": "http://www.beeradvocate.com/beer/profile/28205/78620",
+			"type": "English Pale Ale",
+			"abv": "4.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "195",
+			"company": "High Horse Brewery and Bistro",
+			"name": "Libertine Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/28205/78378",
+			"type": "American Porter",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "196",
+			"company": "High Horse Brewery and Bistro",
+			"name": "Minx Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/28205/78621",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "197",
+			"company": "Idle Hands Craft Ales",
+			"name": "Commemoration Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/24802/80688",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "5.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "198",
+			"company": "Idle Hands Craft Ales",
+			"name": "Pandora",
+			"url": "http://www.beeradvocate.com/beer/profile/24802/74204",
+			"type": "Belgian Pale Ale",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "87"
+		},
+		{
+			"id": "199",
+			"company": "Idle Hands Craft Ales",
+			"name": "Triplication",
+			"url": "http://www.beeradvocate.com/beer/profile/24802/80035",
+			"type": "Tripel",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "200",
+			"company": "Idle Hands Craft Ales",
+			"name": "Wit",
+			"url": "http://www.beeradvocate.com/beer/profile/24802/80689",
+			"type": "Witbier",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "201",
+			"company": "Ipswich Ale Brewery",
+			"name": "5 Mile Corn Bock",
+			"url": "http://www.beeradvocate.com/beer/profile/162/80886",
+			"type": "Bock",
+			"abv": "6.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "202",
+			"company": "Ipswich Ale Brewery",
+			"name": "Ipswich 21st Anniversary Imperial Dark Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/162/80605",
+			"type": "American Strong Ale",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "203",
+			"company": "Ipswich Ale Brewery",
+			"name": "Ipswich Oatmeal Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/162/260",
+			"type": "Oatmeal Stout",
+			"abv": "7%",
+			"bascore": "93",
+			"broscore": "100"
+		},
+		{
+			"id": "204",
+			"company": "Ipswich Ale Brewery",
+			"name": "Ipswich Original Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/162/255",
+			"type": "English Pale Ale",
+			"abv": "5.4%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "205",
+			"company": "Ipswich Ale Brewery",
+			"name": "Ipswich Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/162/10274",
+			"type": "American Blonde Ale",
+			"abv": "4.9%",
+			"bascore": "85",
+			"broscore": "89"
+		},
+		{
+			"id": "206",
+			"company": "Ithaca Beer Co.",
+			"name": "Apricot Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/651/1782",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.9%",
+			"bascore": "74",
+			"broscore": "N/A"
+		},
+		{
+			"id": "207",
+			"company": "Ithaca Beer Co.",
+			"name": "Cascazilla",
+			"url": "http://www.beeradvocate.com/beer/profile/651/18721",
+			"type": "American Amber / Red Ale",
+			"abv": "7%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "208",
+			"company": "Ithaca Beer Co.",
+			"name": "Flower Power India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/651/6076",
+			"type": "American IPA",
+			"abv": "7.5%",
+			"bascore": "92",
+			"broscore": "N/A"
+		},
+		{
+			"id": "209",
+			"company": "Ithaca Beer Co.",
+			"name": "Fourteen",
+			"url": "http://www.beeradvocate.com/beer/profile/651/80354",
+			"type": "American Black Ale",
+			"abv": "8.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "210",
+			"company": "Kennebec River Pub & Brewery",
+			"name": "Honey Badger Rye",
+			"url": "http://www.beeradvocate.com/beer/profile/438/80608",
+			"type": "Rye Beer",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "211",
+			"company": "Kennebec River Pub & Brewery",
+			"name": "Kennebec River India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/438/61040",
+			"type": "American IPA",
+			"abv": "5.9%",
+			"bascore": "77",
+			"broscore": "N/A"
+		},
+		{
+			"id": "212",
+			"company": "Kennebec River Pub & Brewery",
+			"name": "Penobscot Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/438/1293",
+			"type": "English Porter",
+			"abv": "6.4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "213",
+			"company": "Kennebec River Pub & Brewery",
+			"name": "Schwarzbier",
+			"url": "http://www.beeradvocate.com/beer/profile/438/80609",
+			"type": "Schwarzbier",
+			"abv": "5.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "214",
+			"company": "Kennebec River Pub & Brewery",
+			"name": "Whitewater Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/438/68898",
+			"type": "Witbier",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "215",
+			"company": "Kona Brewing Co.",
+			"name": "Big Wave Golden Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/579/22592",
+			"type": "American Blonde Ale",
+			"abv": "4.4%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "216",
+			"company": "Kona Brewing Co.",
+			"name": "Koko Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/579/66449",
+			"type": "American Brown Ale",
+			"abv": "5.5%",
+			"bascore": "82",
+			"broscore": "71"
+		},
+		{
+			"id": "217",
+			"company": "Kona Brewing Co.",
+			"name": "Longboard Island Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/579/5328",
+			"type": "American Pale Lager",
+			"abv": "4.6%",
+			"bascore": "78",
+			"broscore": "81"
+		},
+		{
+			"id": "218",
+			"company": "Kona Brewing Co.",
+			"name": "Wailua Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/579/36594",
+			"type": "American Pale Wheat Ale",
+			"abv": "5.4%",
+			"bascore": "77",
+			"broscore": "71"
+		},
+		{
+			"id": "219",
+			"company": "Lagunitas Brewing Co.",
+			"name": "Lagunitas IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/220/916",
+			"type": "American IPA",
+			"abv": "6.2%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "220",
+			"company": "Lagunitas Brewing Co.",
+			"name": "Lagunitas PILS (Czech Style Pilsner)",
+			"url": "http://www.beeradvocate.com/beer/profile/220/19589",
+			"type": "Czech Pilsener",
+			"abv": "6.2%",
+			"bascore": "82",
+			"broscore": "84"
+		},
+		{
+			"id": "221",
+			"company": "Lagunitas Brewing Co.",
+			"name": "Lucky 13.alt",
+			"url": "http://www.beeradvocate.com/beer/profile/220/70309",
+			"type": "American Strong Ale",
+			"abv": "8.9%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "222",
+			"company": "Lagunitas Brewing Co.",
+			"name": "Olde GnarlyWine",
+			"url": "http://www.beeradvocate.com/beer/profile/220/1579",
+			"type": "American Barleywine",
+			"abv": "10.6%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "223",
+			"company": "Lake Placid Craft Brewing Co.",
+			"name": "Lake Placid Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/1888/11786",
+			"type": "Hefeweizen",
+			"abv": "5.5%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "224",
+			"company": "Lake Placid Craft Brewing Co.",
+			"name": "Lake Placid India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1888/41784",
+			"type": "American IPA",
+			"abv": "6.8%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "225",
+			"company": "Lake Placid Craft Brewing Co.",
+			"name": "Ubu Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1888/6751",
+			"type": "American Strong Ale",
+			"abv": "7%",
+			"bascore": "85",
+			"broscore": "75"
+		},
+		{
+			"id": "226",
+			"company": "Left Hand Brewing Co.",
+			"name": "Good Juju (Ginger Ale)",
+			"url": "http://www.beeradvocate.com/beer/profile/418/1876",
+			"type": "Herbed / Spiced Beer",
+			"abv": "4%",
+			"bascore": "77",
+			"broscore": "86"
+		},
+		{
+			"id": "227",
+			"company": "Left Hand Brewing Co.",
+			"name": "Left Hand Milk Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/418/3434",
+			"type": "Milk / Sweet Stout",
+			"abv": "6%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "228",
+			"company": "Left Hand Brewing Co.",
+			"name": "Sawtooth Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/418/1543",
+			"type": "Extra Special / Strong Bitter (ESB)",
+			"abv": "5.3%",
+			"bascore": "83",
+			"broscore": "94"
+		},
+		{
+			"id": "229",
+			"company": "Left Hand Brewing Co.",
+			"name": "Smoke Jumper Smoked Imperial Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/418/34363",
+			"type": "American Porter",
+			"abv": "8.8%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "230",
+			"company": "Long Trail Brewing Co.",
+			"name": "Blackbeary Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/94/3636",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4%",
+			"bascore": "71",
+			"broscore": "76"
+		},
+		{
+			"id": "231",
+			"company": "Long Trail Brewing Co.",
+			"name": "Double IPA (Brewmaster Series)",
+			"url": "http://www.beeradvocate.com/beer/profile/94/48780",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.6%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "232",
+			"company": "Long Trail Brewing Co.",
+			"name": "Long Trail Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/94/3128",
+			"type": "Altbier",
+			"abv": "4.6%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "233",
+			"company": "Long Trail Brewing Co.",
+			"name": "Triple Bag",
+			"url": "http://www.beeradvocate.com/beer/profile/94/45202",
+			"type": "American Strong Ale",
+			"abv": "9.2%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "234",
+			"company": "Magic Hat Brewing Co.",
+			"name": "#9",
+			"url": "http://www.beeradvocate.com/beer/profile/96/299",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "5.1%",
+			"bascore": "78",
+			"broscore": "74"
+		},
+		{
+			"id": "235",
+			"company": "Magic Hat Brewing Co.",
+			"name": "Elder Betty",
+			"url": "http://www.beeradvocate.com/beer/profile/96/79835",
+			"type": "American Pale Wheat Ale",
+			"abv": "5.5%",
+			"bascore": "79",
+			"broscore": "71"
+		},
+		{
+			"id": "236",
+			"company": "Maine Beer Co.",
+			"name": "Lunch",
+			"url": "http://www.beeradvocate.com/beer/profile/20681/68916",
+			"type": "American IPA",
+			"abv": "7%",
+			"bascore": "95",
+			"broscore": "94"
+		},
+		{
+			"id": "237",
+			"company": "Maine Beer Co.",
+			"name": "MO (Madeline & Oliver) Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20681/78906",
+			"type": "American Pale Ale (APA)",
+			"abv": "6%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "238",
+			"company": "Maine Beer Co.",
+			"name": "Peeper Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20681/51512",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.5%",
+			"bascore": "92",
+			"broscore": "94"
+		},
+		{
+			"id": "239",
+			"company": "Matt Brewing Co.",
+			"name": "Saranac Blueberry Blonde Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/99/80356",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "240",
+			"company": "Matt Brewing Co.",
+			"name": "Saranac High Peaks Lemon Ginger",
+			"url": "http://www.beeradvocate.com/beer/profile/99/80667",
+			"type": "Herbed / Spiced Beer",
+			"abv": "8.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "241",
+			"company": "Matt Brewing Co.",
+			"name": "Saranac Shandy",
+			"url": "http://www.beeradvocate.com/beer/profile/99/80668",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "242",
+			"company": "Matt Brewing Co.",
+			"name": "Saranac White IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/99/76375",
+			"type": "Belgian IPA",
+			"abv": "6%",
+			"bascore": "87",
+			"broscore": "86"
+		},
+		{
+			"id": "243",
+			"company": "Mayflower Brewing Co.",
+			"name": "Mayflower Golden Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/16105/42039",
+			"type": "American Blonde Ale",
+			"abv": "4.7%",
+			"bascore": "83",
+			"broscore": "90"
+		},
+		{
+			"id": "244",
+			"company": "Mayflower Brewing Co.",
+			"name": "Mayflower IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/16105/42007",
+			"type": "American IPA",
+			"abv": "7%",
+			"bascore": "88",
+			"broscore": "84"
+		},
+		{
+			"id": "245",
+			"company": "Mayflower Brewing Co.",
+			"name": "Mayflower Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/16105/40873",
+			"type": "English Pale Ale",
+			"abv": "4.9%",
+			"bascore": "84",
+			"broscore": "84"
+		},
+		{
+			"id": "246",
+			"company": "Mayflower Brewing Co.",
+			"name": "Mayflower Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/16105/41839",
+			"type": "English Porter",
+			"abv": "5.5%",
+			"bascore": "91",
+			"broscore": "100"
+		},
+		{
+			"id": "247",
+			"company": "Mayflower Brewing Co.",
+			"name": "Mayflower Summer Rye",
+			"url": "http://www.beeradvocate.com/beer/profile/16105/50693",
+			"type": "Rye Beer",
+			"abv": "3.8%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "248",
+			"company": "Milwaukee Brewing Co.",
+			"name": "Booyah",
+			"url": "http://www.beeradvocate.com/beer/profile/18680/79411",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "6.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "249",
+			"company": "Milwaukee Brewing Co.",
+			"name": "Hop Happy",
+			"url": "http://www.beeradvocate.com/beer/profile/18680/75774",
+			"type": "American IPA",
+			"abv": "7.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "250",
+			"company": "Moat Mountain Smoke House & Brewing Co.",
+			"name": "Boneshaker Brown Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/451/6481",
+			"type": "English Brown Ale",
+			"abv": "5.4%",
+			"bascore": "89",
+			"broscore": "94"
+		},
+		{
+			"id": "251",
+			"company": "Moat Mountain Smoke House & Brewing Co.",
+			"name": "Iron Mike Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/451/37881",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.6%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "252",
+			"company": "Moat Mountain Smoke House & Brewing Co.",
+			"name": "Moat Belgian Tripel",
+			"url": "http://www.beeradvocate.com/beer/profile/451/70894",
+			"type": "Tripel",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "85"
+		},
+		{
+			"id": "253",
+			"company": "Moat Mountain Smoke House & Brewing Co.",
+			"name": "Moat Hoffman Weiss",
+			"url": "http://www.beeradvocate.com/beer/profile/451/2676",
+			"type": "Hefeweizen",
+			"abv": "5.7%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "254",
+			"company": "Mystic Brewery",
+			"name": "Descendant Dark Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/24803/74414",
+			"type": "English Stout",
+			"abv": "7%",
+			"bascore": "85",
+			"broscore": "82"
+		},
+		{
+			"id": "255",
+			"company": "Mystic Brewery",
+			"name": "Old Powderhouse",
+			"url": "http://www.beeradvocate.com/beer/profile/24803/80419",
+			"type": "Wheatwine",
+			"abv": "11%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "256",
+			"company": "Mystic Brewery",
+			"name": "Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/24803/72998",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "7%",
+			"bascore": "83",
+			"broscore": "76"
+		},
+		{
+			"id": "257",
+			"company": "Mystic Brewery",
+			"name": "Saison Asterisk",
+			"url": "http://www.beeradvocate.com/beer/profile/24803/80616",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "258",
+			"company": "Narragansett Brewing Co.",
+			"name": "Narragansett Bock",
+			"url": "http://www.beeradvocate.com/beer/profile/213/66780",
+			"type": "Maibock / Helles Bock",
+			"abv": "6.5%",
+			"bascore": "88",
+			"broscore": "95"
+		},
+		{
+			"id": "259",
+			"company": "Narragansett Brewing Co.",
+			"name": "Narragansett Cream Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/213/78605",
+			"type": "Cream Ale",
+			"abv": "5%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "260",
+			"company": "Narragansett Brewing Co.",
+			"name": "Narragansett Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/213/7406",
+			"type": "American Adjunct Lager",
+			"abv": "5%",
+			"bascore": "79",
+			"broscore": "88"
+		},
+		{
+			"id": "261",
+			"company": "Narragansett Brewing Co.",
+			"name": "Narragansett Light",
+			"url": "http://www.beeradvocate.com/beer/profile/213/37129",
+			"type": "Light Lager",
+			"abv": "3.8%",
+			"bascore": "77",
+			"broscore": "N/A"
+		},
+		{
+			"id": "262",
+			"company": "Narragansett Brewing Co.",
+			"name": "Narragansett Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/213/68147",
+			"type": "American Blonde Ale",
+			"abv": "4.2%",
+			"bascore": "89",
+			"broscore": "80"
+		},
+		{
+			"id": "263",
+			"company": "New Jersey Beer Co.",
+			"name": "1787 Abbey Single",
+			"url": "http://www.beeradvocate.com/beer/profile/22617/57692",
+			"type": "Belgian Pale Ale",
+			"abv": "4.8%",
+			"bascore": "76",
+			"broscore": "N/A"
+		},
+		{
+			"id": "264",
+			"company": "New Jersey Beer Co.",
+			"name": "Garden State Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/22617/57691",
+			"type": "American Stout",
+			"abv": "6.6%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "265",
+			"company": "New Jersey Beer Co.",
+			"name": "Hudson Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/22617/57690",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.8%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "266",
+			"company": "New Jersey Beer Co.",
+			"name": "Weehawken Wee Heavy",
+			"url": "http://www.beeradvocate.com/beer/profile/22617/79992",
+			"type": "Scotch Ale / Wee Heavy",
+			"abv": "8.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "267",
+			"company": "Night Shift Brewing",
+			"name": "Bee Tea Wheat Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/28609/79809",
+			"type": "Herbed / Spiced Beer",
+			"abv": "8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "268",
+			"company": "Night Shift Brewing",
+			"name": "Taza Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/28609/80621",
+			"type": "American Stout",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "269",
+			"company": "Night Shift Brewing",
+			"name": "Trifecta",
+			"url": "http://www.beeradvocate.com/beer/profile/28609/80620",
+			"type": "Belgian Strong Pale Ale",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "270",
+			"company": "Night Shift Brewing",
+			"name": "Viva Habanera",
+			"url": "http://www.beeradvocate.com/beer/profile/28609/80887",
+			"type": "Rye Beer",
+			"abv": "6.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "271",
+			"company": "NoDa Brewing Co.",
+			"name": "Coco Loco",
+			"url": "http://www.beeradvocate.com/beer/profile/26990/74675",
+			"type": "American Porter",
+			"abv": "6.2%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "272",
+			"company": "NoDa Brewing Co.",
+			"name": "Ghost Hop White IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/26990/80624",
+			"type": "Witbier",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "273",
+			"company": "Notch Brewing",
+			"name": "Notch Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/22723/68924",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "3.8%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "274",
+			"company": "Notch Brewing",
+			"name": "Notch Session Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/22723/67108",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.5%",
+			"bascore": "83",
+			"broscore": "80"
+		},
+		{
+			"id": "275",
+			"company": "Notch Brewing",
+			"name": "Notch Session Pils",
+			"url": "http://www.beeradvocate.com/beer/profile/22723/67261",
+			"type": "Czech Pilsener",
+			"abv": "4%",
+			"bascore": "80",
+			"broscore": "71"
+		},
+		{
+			"id": "276",
+			"company": "Notch Brewing",
+			"name": "Notch Tafelbier",
+			"url": "http://www.beeradvocate.com/beer/profile/22723/80625",
+			"type": "Belgian Pale Ale",
+			"abv": "2.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "277",
+			"company": "Offshore Ale Co.",
+			"name": "Beach Road Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/236/76487",
+			"type": "American Brown Ale",
+			"abv": "4.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "278",
+			"company": "Offshore Ale Co.",
+			"name": "East Chop Lighthouse",
+			"url": "http://www.beeradvocate.com/beer/profile/236/69125",
+			"type": "American Blonde Ale",
+			"abv": "4.7%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "279",
+			"company": "Offshore Ale Co.",
+			"name": "Menemsha Creek Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/236/62584",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.5%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "280",
+			"company": "Offshore Ale Co.",
+			"name": "Offshore Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/236/2154",
+			"type": "American Amber / Red Ale",
+			"abv": "5.3%",
+			"bascore": "84",
+			"broscore": "82"
+		},
+		{
+			"id": "281",
+			"company": "Offshore Ale Co.",
+			"name": "Offshore India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/236/22781",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "282",
+			"company": "Olde Burnside Brewing Co.",
+			"name": "Dirty Penny Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/823/16838",
+			"type": "Black & Tan",
+			"abv": "5%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "283",
+			"company": "Olde Burnside Brewing Co.",
+			"name": "Highland Wild Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/823/74934",
+			"type": "American Wild Ale",
+			"abv": "11%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "284",
+			"company": "Olde Burnside Brewing Co.",
+			"name": "Penny Weiz Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/823/42577",
+			"type": "Witbier",
+			"abv": "5.2%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "285",
+			"company": "Olde Burnside Brewing Co.",
+			"name": "Stone Of Destiny",
+			"url": "http://www.beeradvocate.com/beer/profile/823/68936",
+			"type": "Black & Tan",
+			"abv": "12%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "286",
+			"company": "Olde Burnside Brewing Co.",
+			"name": "Ten Penny Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/823/2916",
+			"type": "Scottish Ale",
+			"abv": "5.5%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "287",
+			"company": "OPA-OPA Steakhouse & Brewery",
+			"name": "A-10 Warthog Double IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/10279/21927",
+			"type": "American Double / Imperial IPA",
+			"abv": "10%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "288",
+			"company": "OPA-OPA Steakhouse & Brewery",
+			"name": "Opa Opa Blueberry Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/10279/51906",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "289",
+			"company": "OPA-OPA Steakhouse & Brewery",
+			"name": "Opa Opa IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/10279/20335",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "84",
+			"broscore": "80"
+		},
+		{
+			"id": "290",
+			"company": "OPA-OPA Steakhouse & Brewery",
+			"name": "Red Rock Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/10279/20336",
+			"type": "American Amber / Red Ale",
+			"abv": "6%",
+			"bascore": "83",
+			"broscore": "82"
+		},
+		{
+			"id": "291",
+			"company": "OPA-OPA Steakhouse & Brewery",
+			"name": "Watermelon Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/10279/80657",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "292",
+			"company": "Oskar Blues Brewing Co.",
+			"name": "Old Chub - Scottish Style Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/28907/14712",
+			"type": "Scotch Ale / Wee Heavy",
+			"abv": "8%",
+			"bascore": "90",
+			"broscore": "90"
+		},
+		{
+			"id": "293",
+			"company": "Paper City Brewery Co., Inc.",
+			"name": "Fogbuster Coffee House Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/123/57946",
+			"type": "American Porter",
+			"abv": "8.5%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "294",
+			"company": "Paper City Brewery Co., Inc.",
+			"name": "Holyoke Dam Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/123/391",
+			"type": "American Pale Ale (APA)",
+			"abv": "5%",
+			"bascore": "81",
+			"broscore": "77"
+		},
+		{
+			"id": "295",
+			"company": "Paper City Brewery Co., Inc.",
+			"name": "Hop Monster",
+			"url": "http://www.beeradvocate.com/beer/profile/123/6889",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.5%",
+			"bascore": "86",
+			"broscore": "88"
+		},
+		{
+			"id": "296",
+			"company": "Paper City Brewery Co., Inc.",
+			"name": "One Eared Monkey",
+			"url": "http://www.beeradvocate.com/beer/profile/123/16586",
+			"type": "American Blonde Ale",
+			"abv": "6%",
+			"bascore": "69",
+			"broscore": "41"
+		},
+		{
+			"id": "297",
+			"company": "Paper City Brewery Co., Inc.",
+			"name": "Radler Bräu",
+			"url": "http://www.beeradvocate.com/beer/profile/123/45920",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "6.5%",
+			"bascore": "74",
+			"broscore": "N/A"
+		},
+		{
+			"id": "298",
+			"company": "Peak Organic Brewing Co.",
+			"name": "Hop Noir",
+			"url": "http://www.beeradvocate.com/beer/profile/13884/66426",
+			"type": "American Black Ale",
+			"abv": "8.2%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "299",
+			"company": "Peak Organic Brewing Co.",
+			"name": "Peak Organic Summer Session Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/13884/58999",
+			"type": "American Pale Wheat Ale",
+			"abv": "5%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "300",
+			"company": "Peak Organic Brewing Co.",
+			"name": "Peak Organic Weiss Principal",
+			"url": "http://www.beeradvocate.com/beer/profile/13884/68937",
+			"type": "Weizenbock",
+			"abv": "8.6%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "301",
+			"company": "Peak Organic Brewing Co.",
+			"name": "Peak Pomegranate Wheat Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/13884/47945",
+			"type": "American Pale Wheat Ale",
+			"abv": "6%",
+			"bascore": "76",
+			"broscore": "N/A"
+		},
+		{
+			"id": "302",
+			"company": "Pioneer Brewing Co.",
+			"name": "Pioneer American India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/85/69028",
+			"type": "American IPA",
+			"abv": "5.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "303",
+			"company": "Pioneer Brewing Co.",
+			"name": "Pioneer Into The Woods",
+			"url": "http://www.beeradvocate.com/beer/profile/85/68868",
+			"type": "Vienna Lager",
+			"abv": "7.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "304",
+			"company": "Pioneer Brewing Co.",
+			"name": "Pioneer Path Of The Unknown",
+			"url": "http://www.beeradvocate.com/beer/profile/85/76081",
+			"type": "American Brown Ale",
+			"abv": "10%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "305",
+			"company": "Pioneer Brewing Co.",
+			"name": "Pioneer The New Frontier",
+			"url": "http://www.beeradvocate.com/beer/profile/85/80658",
+			"type": "American Double / Imperial IPA",
+			"abv": "11%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "306",
+			"company": "Pretty Things Beer & Ale Project",
+			"name": "Babayaga",
+			"url": "http://www.beeradvocate.com/beer/profile/18371/54019",
+			"type": "American Stout",
+			"abv": "7%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "307",
+			"company": "Pretty Things Beer & Ale Project",
+			"name": "Baby Tree",
+			"url": "http://www.beeradvocate.com/beer/profile/18371/49299",
+			"type": "Quadrupel (Quad)",
+			"abv": "9%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "308",
+			"company": "Pretty Things Beer & Ale Project",
+			"name": "Fluffy White Rabbits",
+			"url": "http://www.beeradvocate.com/beer/profile/18371/57088",
+			"type": "Tripel",
+			"abv": "8.5%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "309",
+			"company": "Pretty Things Beer & Ale Project",
+			"name": "Our Finest Regards",
+			"url": "http://www.beeradvocate.com/beer/profile/18371/64058",
+			"type": "English Barleywine",
+			"abv": "13.5%",
+			"bascore": "90",
+			"broscore": "89"
+		},
+		{
+			"id": "310",
+			"company": "Prodigal Brewing Co.",
+			"name": "Chocorua Kolsch",
+			"url": "http://www.beeradvocate.com/beer/profile/23557/80662",
+			"type": "KÃ¶lsch",
+			"abv": "4.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "311",
+			"company": "Prodigal Brewing Co.",
+			"name": "Die Zeige-Uberfahrt Maibock",
+			"url": "http://www.beeradvocate.com/beer/profile/23557/80660",
+			"type": "Maibock / Helles Bock",
+			"abv": "6.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "312",
+			"company": "Prodigal Brewing Co.",
+			"name": "Effinghamburgherbrau Munich Golden Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/23557/61392",
+			"type": "Munich Helles Lager",
+			"abv": "5.1%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "313",
+			"company": "Prodigal Brewing Co.",
+			"name": "Sacopee Pils",
+			"url": "http://www.beeradvocate.com/beer/profile/23557/68939",
+			"type": "German Pilsener",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "314",
+			"company": "Prodigal Brewing Co.",
+			"name": "The Necromancer",
+			"url": "http://www.beeradvocate.com/beer/profile/23557/80661",
+			"type": "Doppelbock",
+			"abv": "11%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "315",
+			"company": "Pyramid Breweries, Inc.",
+			"name": "Haywire Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/403/1237",
+			"type": "American Pale Wheat Ale",
+			"abv": "5.2%",
+			"bascore": "71",
+			"broscore": "N/A"
+		},
+		{
+			"id": "316",
+			"company": "Pyramid Breweries, Inc.",
+			"name": "Thunderhead IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/403/1544",
+			"type": "American IPA",
+			"abv": "6.7%",
+			"bascore": "79",
+			"broscore": "N/A"
+		},
+		{
+			"id": "317",
+			"company": "Rapscallion",
+			"name": "Rapscallion Blessing",
+			"url": "http://www.beeradvocate.com/beer/profile/18639/3549",
+			"type": "American Amber / Red Ale",
+			"abv": "8%",
+			"bascore": "87",
+			"broscore": "86"
+		},
+		{
+			"id": "318",
+			"company": "Rapscallion",
+			"name": "Rapscallion Grape",
+			"url": "http://www.beeradvocate.com/beer/profile/18639/80663",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "319",
+			"company": "Rapscallion",
+			"name": "Rapscallion Honey",
+			"url": "http://www.beeradvocate.com/beer/profile/18639/46292",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.5%",
+			"bascore": "79",
+			"broscore": "N/A"
+		},
+		{
+			"id": "320",
+			"company": "Rapscallion",
+			"name": "Rapscallion Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/18639/69100",
+			"type": "American Pale Lager",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "321",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "American Independence Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/153/80664",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "322",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Long Hammer IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/153/34688",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "74",
+			"broscore": "66"
+		},
+		{
+			"id": "323",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Redhook ESB",
+			"url": "http://www.beeradvocate.com/beer/profile/153/1119",
+			"type": "Extra Special / Strong Bitter (ESB)",
+			"abv": "5.77%",
+			"bascore": "78",
+			"broscore": "73"
+		},
+		{
+			"id": "324",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Redhook Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/153/56977",
+			"type": "Czech Pilsener",
+			"abv": "5.3%",
+			"bascore": "79",
+			"broscore": "89"
+		},
+		{
+			"id": "325",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Redhook Wit",
+			"url": "http://www.beeradvocate.com/beer/profile/153/68941",
+			"type": "Witbier",
+			"abv": "5.3%",
+			"bascore": "81",
+			"broscore": "88"
+		},
+		{
+			"id": "326",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Saturnalia",
+			"url": "http://www.beeradvocate.com/beer/profile/153/47168",
+			"type": "American Strong Ale",
+			"abv": "8.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "327",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "Sunny Side Up - Peached Triple",
+			"url": "http://www.beeradvocate.com/beer/profile/153/80665",
+			"type": "Tripel",
+			"abv": "8.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "328",
+			"company": "Redhook Ale Brewery & Cataqua Public House",
+			"name": "WIPA - Wheat IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/153/80666",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "329",
+			"company": "Rising Tide Brewing Co.",
+			"name": "Atlantis",
+			"url": "http://www.beeradvocate.com/beer/profile/23639/74007",
+			"type": "American Black Ale",
+			"abv": "5.3%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "330",
+			"company": "Rising Tide Brewing Co.",
+			"name": "Daymark",
+			"url": "http://www.beeradvocate.com/beer/profile/23639/68085",
+			"type": "Rye Beer",
+			"abv": "5.5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "331",
+			"company": "Rising Tide Brewing Co.",
+			"name": "Ishmael",
+			"url": "http://www.beeradvocate.com/beer/profile/23639/61873",
+			"type": "Altbier",
+			"abv": "5.1%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "332",
+			"company": "Rising Tide Brewing Co.",
+			"name": "Ursa Minor",
+			"url": "http://www.beeradvocate.com/beer/profile/23639/64502",
+			"type": "American Stout",
+			"abv": "6.7%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "333",
+			"company": "Rogue Ales",
+			"name": "Chatoe First Growth Good Chit Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/132/73341",
+			"type": "Czech Pilsener",
+			"abv": "6%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "334",
+			"company": "Rogue Ales",
+			"name": "Chipotle Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/132/354",
+			"type": "Chile Beer",
+			"abv": "5.5%",
+			"bascore": "82",
+			"broscore": "96"
+		},
+		{
+			"id": "335",
+			"company": "Rogue Ales",
+			"name": "Double Dead Guy Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/132/41043",
+			"type": "American Strong Ale",
+			"abv": "9%",
+			"bascore": "87",
+			"broscore": "90"
+		},
+		{
+			"id": "336",
+			"company": "Rogue Ales",
+			"name": "XS Imperial India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/132/358",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.5%",
+			"bascore": "92",
+			"broscore": "96"
+		},
+		{
+			"id": "337",
+			"company": "Ruckus Brewing",
+			"name": "Euphoria",
+			"url": "http://www.beeradvocate.com/beer/profile/25317/16906",
+			"type": "Tripel",
+			"abv": "9%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "338",
+			"company": "Ruckus Brewing",
+			"name": "Hoptimus Prime",
+			"url": "http://www.beeradvocate.com/beer/profile/25317/68087",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "339",
+			"company": "Ruckus Brewing",
+			"name": "Reading Premium Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/25317/35865",
+			"type": "American Pale Lager",
+			"abv": "4.5%",
+			"bascore": "79",
+			"broscore": "N/A"
+		},
+		{
+			"id": "340",
+			"company": "Safe Harbor Brewing Co",
+			"name": "Safe Harbor American Blonde Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/27196/75190",
+			"type": "American Blonde Ale",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "341",
+			"company": "Shipyard Brewing Co.",
+			"name": "Double Old Thumper Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/139/65848",
+			"type": "Extra Special / Strong Bitter (ESB)",
+			"abv": "11.2%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "342",
+			"company": "Shipyard Brewing Co.",
+			"name": "Seadog Blueberry",
+			"url": "http://www.beeradvocate.com/beer/profile/139/68950",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "343",
+			"company": "Shipyard Brewing Co.",
+			"name": "Shipyard Export Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/139/1120",
+			"type": "American Blonde Ale",
+			"abv": "5%",
+			"bascore": "77",
+			"broscore": "78"
+		},
+		{
+			"id": "344",
+			"company": "Shipyard Brewing Co.",
+			"name": "Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/139/287",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.1%",
+			"bascore": "71",
+			"broscore": "64"
+		},
+		{
+			"id": "345",
+			"company": "Shmaltz Brewing Co.",
+			"name": "Coney Island Albino Python",
+			"url": "http://www.beeradvocate.com/beer/profile/262/43120",
+			"type": "Herbed / Spiced Beer",
+			"abv": "6%",
+			"bascore": "81",
+			"broscore": "90"
+		},
+		{
+			"id": "346",
+			"company": "Shmaltz Brewing Co.",
+			"name": "Coney Island Human Blockhead",
+			"url": "http://www.beeradvocate.com/beer/profile/262/43353",
+			"type": "Doppelbock",
+			"abv": "10%",
+			"bascore": "83",
+			"broscore": "80"
+		},
+		{
+			"id": "347",
+			"company": "Shmaltz Brewing Co.",
+			"name": "Coney Island Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/262/37142",
+			"type": "American Amber / Red Lager",
+			"abv": "5.5%",
+			"bascore": "84",
+			"broscore": "90"
+		},
+		{
+			"id": "348",
+			"company": "Shmaltz Brewing Co.",
+			"name": "Coney Island Mermaid Pilsener",
+			"url": "http://www.beeradvocate.com/beer/profile/262/50743",
+			"type": "German Pilsener",
+			"abv": "5%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "349",
+			"company": "Shmaltz Brewing Co.",
+			"name": "Hop Manna",
+			"url": "http://www.beeradvocate.com/beer/profile/262/78791",
+			"type": "American IPA",
+			"abv": "6.8%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "350",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Hoptimum Double IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/140/55939",
+			"type": "American Double / Imperial IPA",
+			"abv": "10.4%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "351",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Kellerweis Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/140/48434",
+			"type": "Hefeweizen",
+			"abv": "4.8%",
+			"bascore": "91",
+			"broscore": "96"
+		},
+		{
+			"id": "352",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Knock On Wood Bourbon Barrel-Aged Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/140/80671",
+			"type": "American Double / Imperial Stout",
+			"abv": "9.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "353",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/140/276",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.6%",
+			"bascore": "91",
+			"broscore": "92"
+		},
+		{
+			"id": "354",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Summerfest Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/140/3558",
+			"type": "Czech Pilsener",
+			"abv": "5%",
+			"bascore": "83",
+			"broscore": "89"
+		},
+		{
+			"id": "355",
+			"company": "Sierra Nevada Brewing Co.",
+			"name": "Sierra Nevada Torpedo Extra IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/140/30420",
+			"type": "American IPA",
+			"abv": "7.2%",
+			"bascore": "92",
+			"broscore": "98"
+		},
+		{
+			"id": "356",
+			"company": "Sixpoint",
+			"name": "Apollo",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/80745",
+			"type": "Kristalweizen",
+			"abv": "5.2%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "357",
+			"company": "Sixpoint",
+			"name": "Bengali Tiger",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/22189",
+			"type": "American IPA",
+			"abv": "6.4%",
+			"bascore": "88",
+			"broscore": "99"
+		},
+		{
+			"id": "358",
+			"company": "Sixpoint",
+			"name": "Resin",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/77299",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.1%",
+			"bascore": "87",
+			"broscore": "91"
+		},
+		{
+			"id": "359",
+			"company": "Sixpoint",
+			"name": "Righteous Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/23453",
+			"type": "Rye Beer",
+			"abv": "6.4%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "360",
+			"company": "Sixpoint",
+			"name": "Sweet Action",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/22193",
+			"type": "Cream Ale",
+			"abv": "5.2%",
+			"bascore": "88",
+			"broscore": "98"
+		},
+		{
+			"id": "361",
+			"company": "Sixpoint",
+			"name": "The Crisp",
+			"url": "http://www.beeradvocate.com/beer/profile/10607/62989",
+			"type": "German Pilsener",
+			"abv": "5.4%",
+			"bascore": "88",
+			"broscore": "98"
+		},
+		{
+			"id": "362",
+			"company": "Smuttynose Brewing Co.",
+			"name": "Smuttynose IPA \"Finest Kind\"",
+			"url": "http://www.beeradvocate.com/beer/profile/141/16403",
+			"type": "American IPA",
+			"abv": "6.9%",
+			"bascore": "92",
+			"broscore": "100"
+		},
+		{
+			"id": "363",
+			"company": "Smuttynose Brewing Co.",
+			"name": "Smuttynose Star Island Single",
+			"url": "http://www.beeradvocate.com/beer/profile/141/43132",
+			"type": "Belgian Pale Ale",
+			"abv": "5.1%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "364",
+			"company": "Smuttynose Brewing Co.",
+			"name": "Smuttynose Vunderbahr Pilsner (Short Batch Series)",
+			"url": "http://www.beeradvocate.com/beer/profile/141/61326",
+			"type": "German Pilsener",
+			"abv": "5.11%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "365",
+			"company": "Smuttynose Brewing Co.",
+			"name": "Smuttynose Wheat Wine (Big Beer Series)",
+			"url": "http://www.beeradvocate.com/beer/profile/141/21804",
+			"type": "Wheatwine",
+			"abv": "10.7%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "366",
+			"company": "Somerville Brewing Co. (Slumbrew)",
+			"name": "Slumbrew Flagraiser IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/27016/74815",
+			"type": "American IPA",
+			"abv": "7.5%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "367",
+			"company": "Somerville Brewing Co. (Slumbrew)",
+			"name": "Slumbrew Happy Sol",
+			"url": "http://www.beeradvocate.com/beer/profile/27016/74769",
+			"type": "Hefeweizen",
+			"abv": "5.5%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "368",
+			"company": "Somerville Brewing Co. (Slumbrew)",
+			"name": "Slumbrew My Better Half",
+			"url": "http://www.beeradvocate.com/beer/profile/27016/78278",
+			"type": "Cream Ale",
+			"abv": "7.2%",
+			"bascore": "88",
+			"broscore": "N/A"
+		},
+		{
+			"id": "369",
+			"company": "Somerville Brewing Co. (Slumbrew)",
+			"name": "Slumbrew Porter Square Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/27016/75645",
+			"type": "American Porter",
+			"abv": "6.5%",
+			"bascore": "91",
+			"broscore": "82"
+		},
+		{
+			"id": "370",
+			"company": "Somerville Brewing Co. (Slumbrew)",
+			"name": "Slumbrew Trekker Tripel",
+			"url": "http://www.beeradvocate.com/beer/profile/27016/80672",
+			"type": "Tripel",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "371",
+			"company": "Speakeasy Ales & Lagers",
+			"name": "Big Daddy IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/559/1472",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "84",
+			"broscore": "90"
+		},
+		{
+			"id": "372",
+			"company": "Speakeasy Ales & Lagers",
+			"name": "Double Daddy",
+			"url": "http://www.beeradvocate.com/beer/profile/559/25283",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.5%",
+			"bascore": "82",
+			"broscore": "67"
+		},
+		{
+			"id": "373",
+			"company": "Speakeasy Ales & Lagers",
+			"name": "Prohibition Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/559/1468",
+			"type": "American Amber / Red Ale",
+			"abv": "6.1%",
+			"bascore": "87",
+			"broscore": "97"
+		},
+		{
+			"id": "374",
+			"company": "Speakeasy Ales & Lagers",
+			"name": "Vendetta",
+			"url": "http://www.beeradvocate.com/beer/profile/559/74776",
+			"type": "American IPA",
+			"abv": "7.6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "375",
+			"company": "Stone Brewing Co.",
+			"name": "Double Bastard Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/147/1056",
+			"type": "American Strong Ale",
+			"abv": "10.5%",
+			"bascore": "95",
+			"broscore": "100"
+		},
+		{
+			"id": "376",
+			"company": "Stone Brewing Co.",
+			"name": "Stone Cali-Belgique",
+			"url": "http://www.beeradvocate.com/beer/profile/147/43905",
+			"type": "Belgian IPA",
+			"abv": "6.9%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "377",
+			"company": "Stone Brewing Co.",
+			"name": "Sublimely Self-Righteous Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/147/38470",
+			"type": "American Black Ale",
+			"abv": "8.7%",
+			"bascore": "94",
+			"broscore": "94"
+		},
+		{
+			"id": "378",
+			"company": "The Defiant Brewing Co.",
+			"name": "Belgian Tripel",
+			"url": "http://www.beeradvocate.com/beer/profile/14359/43008",
+			"type": "Tripel",
+			"abv": "9%",
+			"bascore": "86",
+			"broscore": "96"
+		},
+		{
+			"id": "379",
+			"company": "The Defiant Brewing Co.",
+			"name": "Maibock",
+			"url": "http://www.beeradvocate.com/beer/profile/14359/36555",
+			"type": "Maibock / Helles Bock",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "380",
+			"company": "The Defiant Brewing Co.",
+			"name": "Medusa IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/14359/56146",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "381",
+			"company": "The Defiant Brewing Co.",
+			"name": "Muddy Creek Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/14359/36100",
+			"type": "American Amber / Red Lager",
+			"abv": "5.6%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "382",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Baltic Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/32180",
+			"type": "Baltic Porter",
+			"abv": "9%",
+			"bascore": "92",
+			"broscore": "N/A"
+		},
+		{
+			"id": "383",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Barrel Aged Baltic Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/54844",
+			"type": "Baltic Porter",
+			"abv": "9%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "384",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Brown Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/20206",
+			"type": "American Brown Ale",
+			"abv": "5.6%",
+			"bascore": "85",
+			"broscore": "94"
+		},
+		{
+			"id": "385",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Duck-Rabbator",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/50630",
+			"type": "Doppelbock",
+			"abv": "8.5%",
+			"bascore": "90",
+			"broscore": "N/A"
+		},
+		{
+			"id": "386",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Hoppy Bunny American Black Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/80673",
+			"type": "American Black Ale",
+			"abv": "7.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "387",
+			"company": "The Duck-Rabbit Craft Brewery",
+			"name": "Duck-Rabbit Milk Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/9790/20216",
+			"type": "Milk / Sweet Stout",
+			"abv": "5.7%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "388",
+			"company": "The Olde Mecklenburg Brewery",
+			"name": "Captain James Jack Pilsner",
+			"url": "http://www.beeradvocate.com/beer/profile/19247/68984",
+			"type": "German Pilsener",
+			"abv": "4.8%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "389",
+			"company": "The Olde Mecklenburg Brewery",
+			"name": "OMB Copper",
+			"url": "http://www.beeradvocate.com/beer/profile/19247/49474",
+			"type": "Altbier",
+			"abv": "4.8%",
+			"bascore": "89",
+			"broscore": "100"
+		},
+		{
+			"id": "390",
+			"company": "The Olde Mecklenburg Brewery",
+			"name": "Rein Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/19247/78229",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "391",
+			"company": "The Shed Brewery",
+			"name": "Mountain Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/28980/81048",
+			"type": "English Strong Ale",
+			"abv": "7.4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "392",
+			"company": "The Shed Brewery",
+			"name": "Shed IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/28980/81049",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "393",
+			"company": "Thomas Hooker Ales & Lagers",
+			"name": "Chocolate Truffle Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/696/78144",
+			"type": "American Stout",
+			"abv": "5.9%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "394",
+			"company": "Thomas Hooker Ales & Lagers",
+			"name": "Thomas Hooker Hop Meadow IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/696/20389",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "89",
+			"broscore": "99"
+		},
+		{
+			"id": "395",
+			"company": "Thomas Hooker Ales & Lagers",
+			"name": "Thomas Hooker Liberator Doppelbock",
+			"url": "http://www.beeradvocate.com/beer/profile/696/15589",
+			"type": "Doppelbock",
+			"abv": "8%",
+			"bascore": "94",
+			"broscore": "100"
+		},
+		{
+			"id": "396",
+			"company": "Three Heads Brewing",
+			"name": "Bromigo Smoked Maple Amber",
+			"url": "http://www.beeradvocate.com/beer/profile/24355/72969",
+			"type": "American Amber / Red Ale",
+			"abv": "6.5%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "397",
+			"company": "Three Heads Brewing",
+			"name": "Common Man Special Lager",
+			"url": "http://www.beeradvocate.com/beer/profile/24355/79672",
+			"type": "California Common / Steam Beer",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "398",
+			"company": "Three Heads Brewing",
+			"name": "Loopy Oatmeal Red Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/24355/77311",
+			"type": "American Amber / Red Ale",
+			"abv": "6.5%",
+			"bascore": "84",
+			"broscore": "N/A"
+		},
+		{
+			"id": "399",
+			"company": "Three Heads Brewing",
+			"name": "The Kind IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/24355/64139",
+			"type": "American IPA",
+			"abv": "6.8%",
+			"bascore": "86",
+			"broscore": "89"
+		},
+		{
+			"id": "400",
+			"company": "Throwback Brewery",
+			"name": "Throwback Dippity-Do American Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/24690/71907",
+			"type": "American Brown Ale",
+			"abv": "5.7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "401",
+			"company": "Throwback Brewery",
+			"name": "Throwback Hog Happy Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/24690/71905",
+			"type": "Hefeweizen",
+			"abv": "4.9%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "402",
+			"company": "Throwback Brewery",
+			"name": "White Heron Chai Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/24690/79908",
+			"type": "American Porter",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "403",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "DreamWeaver Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/694/18305",
+			"type": "Hefeweizen",
+			"abv": "4.8%",
+			"bascore": "86",
+			"broscore": "82"
+		},
+		{
+			"id": "404",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "Flying Mouflan",
+			"url": "http://www.beeradvocate.com/beer/profile/694/48224",
+			"type": "American Barleywine",
+			"abv": "9.3%",
+			"bascore": "93",
+			"broscore": "N/A"
+		},
+		{
+			"id": "405",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "Troegenator Double Bock",
+			"url": "http://www.beeradvocate.com/beer/profile/694/4109",
+			"type": "Doppelbock",
+			"abv": "8.2%",
+			"bascore": "87",
+			"broscore": "94"
+		},
+		{
+			"id": "406",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "Tröegs Hopback Amber Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/694/6322",
+			"type": "American Amber / Red Ale",
+			"abv": "6%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "407",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "Tröegs Mad Elf",
+			"url": "http://www.beeradvocate.com/beer/profile/694/7531",
+			"type": "Belgian Strong Dark Ale",
+			"abv": "11%",
+			"bascore": "87",
+			"broscore": "85"
+		},
+		{
+			"id": "408",
+			"company": "TrÃ¶egs Brewing Co.",
+			"name": "Tröegs Sunshine Pils",
+			"url": "http://www.beeradvocate.com/beer/profile/694/4108",
+			"type": "German Pilsener",
+			"abv": "5.3%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "409",
+			"company": "Tuckerman Brewing Co.",
+			"name": "6288 Stout",
+			"url": "http://www.beeradvocate.com/beer/profile/624/36034",
+			"type": "American Stout",
+			"abv": "5.9%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "410",
+			"company": "Tuckerman Brewing Co.",
+			"name": "ALTitude",
+			"url": "http://www.beeradvocate.com/beer/profile/624/75693",
+			"type": "Altbier",
+			"abv": "7.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "411",
+			"company": "Tuckerman Brewing Co.",
+			"name": "Headwall Alt",
+			"url": "http://www.beeradvocate.com/beer/profile/624/22919",
+			"type": "Altbier",
+			"abv": "4.75%",
+			"bascore": "84",
+			"broscore": "88"
+		},
+		{
+			"id": "412",
+			"company": "Tullycross Tavern & Microbrewery",
+			"name": "Batch X2 Double IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/25204/75948",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "413",
+			"company": "Tullycross Tavern & Microbrewery",
+			"name": "Flux IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/25204/80676",
+			"type": "American IPA",
+			"abv": "6.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "414",
+			"company": "Twisted Pine Brewing Co.",
+			"name": "Ghost Face Killah",
+			"url": "http://www.beeradvocate.com/beer/profile/23/65230",
+			"type": "Chile Beer",
+			"abv": "5%",
+			"bascore": "75",
+			"broscore": "N/A"
+		},
+		{
+			"id": "415",
+			"company": "Twisted Pine Brewing Co.",
+			"name": "Twisted Pine Hoppy Boy",
+			"url": "http://www.beeradvocate.com/beer/profile/23/21473",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "77",
+			"broscore": "N/A"
+		},
+		{
+			"id": "416",
+			"company": "Twisted Pine Brewing Co.",
+			"name": "Twisted Pine Hoppy Knight India Black Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/23/61312",
+			"type": "American Black Ale",
+			"abv": "8%",
+			"bascore": "82",
+			"broscore": "N/A"
+		},
+		{
+			"id": "417",
+			"company": "Twisted Pine Brewing Co.",
+			"name": "Twisted Pine Le Petit Saison",
+			"url": "http://www.beeradvocate.com/beer/profile/23/60656",
+			"type": "Saison / Farmhouse Ale",
+			"abv": "5%",
+			"bascore": "84",
+			"broscore": "94"
+		},
+		{
+			"id": "418",
+			"company": "Uinta Brewing Co.",
+			"name": "Detour Double India Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1416/58754",
+			"type": "American Double / Imperial IPA",
+			"abv": "9.5%",
+			"bascore": "83",
+			"broscore": "N/A"
+		},
+		{
+			"id": "419",
+			"company": "Uinta Brewing Co.",
+			"name": "Dubhe Imperial Black IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/1416/67046",
+			"type": "American Black Ale",
+			"abv": "9.2%",
+			"bascore": "90",
+			"broscore": "94"
+		},
+		{
+			"id": "420",
+			"company": "Uinta Brewing Co.",
+			"name": "Hop Notch IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/1416/73764",
+			"type": "American IPA",
+			"abv": "7.3%",
+			"bascore": "89",
+			"broscore": "N/A"
+		},
+		{
+			"id": "421",
+			"company": "Uinta Brewing Co.",
+			"name": "Labyrinth Black Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1416/58811",
+			"type": "American Double / Imperial Stout",
+			"abv": "13.2%",
+			"bascore": "92",
+			"broscore": "N/A"
+		},
+		{
+			"id": "422",
+			"company": "Victory Brewing Co.",
+			"name": "Braumeister Pils",
+			"url": "http://www.beeradvocate.com/beer/profile/345/18867",
+			"type": "German Pilsener",
+			"abv": "5.5%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "423",
+			"company": "Victory Brewing Co.",
+			"name": "Headwaters Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/345/66281",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.1%",
+			"bascore": "88",
+			"broscore": "90"
+		},
+		{
+			"id": "424",
+			"company": "Victory Brewing Co.",
+			"name": "Hop Wallop",
+			"url": "http://www.beeradvocate.com/beer/profile/345/14916",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.5%",
+			"bascore": "91",
+			"broscore": "96"
+		},
+		{
+			"id": "425",
+			"company": "Victory Brewing Co.",
+			"name": "Summer Love",
+			"url": "http://www.beeradvocate.com/beer/profile/345/59987",
+			"type": "American Blonde Ale",
+			"abv": "5.2%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "426",
+			"company": "Wachusett Brewing Co.",
+			"name": "Green Monsta IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/20/66886",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "81",
+			"broscore": "80"
+		},
+		{
+			"id": "427",
+			"company": "Wachusett Brewing Co.",
+			"name": "Wachusett Blueberry Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20/2190",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.4%",
+			"bascore": "78",
+			"broscore": "60"
+		},
+		{
+			"id": "428",
+			"company": "Wachusett Brewing Co.",
+			"name": "Wachusett Larry",
+			"url": "http://www.beeradvocate.com/beer/profile/20/51428",
+			"type": "American Double / Imperial IPA",
+			"abv": "7.5%",
+			"bascore": "90",
+			"broscore": "89"
+		},
+		{
+			"id": "429",
+			"company": "Wachusett Brewing Co.",
+			"name": "Wachusett Summer",
+			"url": "http://www.beeradvocate.com/beer/profile/20/38474",
+			"type": "American Pale Wheat Ale",
+			"abv": "4.7%",
+			"bascore": "77",
+			"broscore": "72"
+		},
+		{
+			"id": "430",
+			"company": "Wandering Star Brewing Co.",
+			"name": "Bash-Bish Bock",
+			"url": "http://www.beeradvocate.com/beer/profile/23694/69018",
+			"type": "Maibock / Helles Bock",
+			"abv": "6.4%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "431",
+			"company": "Wandering Star Brewing Co.",
+			"name": "Mild At Heart",
+			"url": "http://www.beeradvocate.com/beer/profile/23694/68429",
+			"type": "English Dark Mild Ale",
+			"abv": "4.3%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "432",
+			"company": "Wandering Star Brewing Co.",
+			"name": "Thunderbolt IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/23694/78884",
+			"type": "American IPA",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "433",
+			"company": "Wandering Star Brewing Co.",
+			"name": "Zingari White",
+			"url": "http://www.beeradvocate.com/beer/profile/23694/80407",
+			"type": "Witbier",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "434",
+			"company": "Watch City Brewing Co.",
+			"name": "Clockwork Summer Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/211/12388",
+			"type": "KÃ¶lsch",
+			"abv": "5.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "435",
+			"company": "Watch City Brewing Co.",
+			"name": "Rescue One Kolsch",
+			"url": "http://www.beeradvocate.com/beer/profile/211/79208",
+			"type": "KÃ¶lsch",
+			"abv": "4.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "436",
+			"company": "Watch City Brewing Co.",
+			"name": "Senchual Green Tea IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/211/74834",
+			"type": "American IPA",
+			"abv": "5.1%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "437",
+			"company": "Watch City Brewing Co.",
+			"name": "Toasted Ah Ah Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/211/69024",
+			"type": "American Pale Ale (APA)",
+			"abv": "5.8%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "438",
+			"company": "West Sixth Brewing Co.",
+			"name": "Dead Heat Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/28764/80682",
+			"type": "American Pale Wheat Ale",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "439",
+			"company": "West Sixth Brewing Co.",
+			"name": "Deliberation Amber",
+			"url": "http://www.beeradvocate.com/beer/profile/28764/80680",
+			"type": "American Amber / Red Ale",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "440",
+			"company": "West Sixth Brewing Co.",
+			"name": "Smithtown Brown",
+			"url": "http://www.beeradvocate.com/beer/profile/28764/80681",
+			"type": "American Brown Ale",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "441",
+			"company": "West Sixth Brewing Co.",
+			"name": "West Sixth IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/28764/80021",
+			"type": "American IPA",
+			"abv": "7%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "442",
+			"company": "Weyerbacher Brewing Co.",
+			"name": "Blanche",
+			"url": "http://www.beeradvocate.com/beer/profile/392/1636",
+			"type": "Witbier",
+			"abv": "5%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "443",
+			"company": "Weyerbacher Brewing Co.",
+			"name": "Double Simcoe IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/392/30288",
+			"type": "American Double / Imperial IPA",
+			"abv": "9%",
+			"bascore": "92",
+			"broscore": "90"
+		},
+		{
+			"id": "444",
+			"company": "Weyerbacher Brewing Co.",
+			"name": "Verboten",
+			"url": "http://www.beeradvocate.com/beer/profile/392/58482",
+			"type": "Belgian Pale Ale",
+			"abv": "5.9%",
+			"bascore": "86",
+			"broscore": "84"
+		},
+		{
+			"id": "445",
+			"company": "White Birch Brewing",
+			"name": "White Birch Belgian Style Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20417/51844",
+			"type": "Belgian Pale Ale",
+			"abv": "9.5%",
+			"bascore": "81",
+			"broscore": "N/A"
+		},
+		{
+			"id": "446",
+			"company": "White Birch Brewing",
+			"name": "White Birch Berliner Weisse",
+			"url": "http://www.beeradvocate.com/beer/profile/20417/59462",
+			"type": "Berliner Weissbier",
+			"abv": "6.4%",
+			"bascore": "86",
+			"broscore": "N/A"
+		},
+		{
+			"id": "447",
+			"company": "White Birch Brewing",
+			"name": "White Birch Hooksett Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20417/65638",
+			"type": "Belgian IPA",
+			"abv": "7.7%",
+			"bascore": "87",
+			"broscore": "N/A"
+		},
+		{
+			"id": "448",
+			"company": "White Birch Brewing",
+			"name": "White Birch Hop Session Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/20417/67523",
+			"type": "American Amber / Red Ale",
+			"abv": "5.1%",
+			"bascore": "85",
+			"broscore": "N/A"
+		},
+		{
+			"id": "449",
+			"company": "White Birch Brewing",
+			"name": "White Birch Hop To Wit",
+			"url": "http://www.beeradvocate.com/beer/profile/20417/80683",
+			"type": "Witbier",
+			"abv": "4.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "450",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Marionberry Hibiscus Gose",
+			"url": "http://www.beeradvocate.com/beer/profile/8/80684",
+			"type": "Gose",
+			"abv": "5.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "451",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Nelson Imperial IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/8/67866",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.6%",
+			"bascore": "87",
+			"broscore": "90"
+		},
+		{
+			"id": "452",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Oatmeal Porter",
+			"url": "http://www.beeradvocate.com/beer/profile/8/79356",
+			"type": "American Porter",
+			"abv": "6%",
+			"bascore": "N/A",
+			"broscore": "82"
+		},
+		{
+			"id": "453",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Pitch Black IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/8/54262",
+			"type": "American Black Ale",
+			"abv": "6.5%",
+			"bascore": "86",
+			"broscore": "89"
+		},
+		{
+			"id": "454",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Shaddock IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/8/60507",
+			"type": "American IPA",
+			"abv": "6.2%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "455",
+			"company": "Widmer Brothers Brewing Co.",
+			"name": "Widmer Hefeweizen",
+			"url": "http://www.beeradvocate.com/beer/profile/8/17",
+			"type": "American Pale Wheat Ale",
+			"abv": "4.9%",
+			"bascore": "74",
+			"broscore": "78"
+		},
+		{
+			"id": "456",
+			"company": "Woodstock Inn Brewery",
+			"name": "4000 Footer IPA",
+			"url": "http://www.beeradvocate.com/beer/profile/1251/68194",
+			"type": "American IPA",
+			"abv": "7.1%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "457",
+			"company": "Woodstock Inn Brewery",
+			"name": "Pemi Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1251/4850",
+			"type": "English Pale Ale",
+			"abv": "5.7%",
+			"bascore": "75",
+			"broscore": "80"
+		},
+		{
+			"id": "458",
+			"company": "Woodstock Inn Brewery",
+			"name": "Raspberry Weasel Wheat",
+			"url": "http://www.beeradvocate.com/beer/profile/1251/18515",
+			"type": "Fruit / Vegetable Beer",
+			"abv": "4.13%",
+			"bascore": "80",
+			"broscore": "N/A"
+		},
+		{
+			"id": "459",
+			"company": "Woodstock Inn Brewery",
+			"name": "Red Rack Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/1251/4849",
+			"type": "Extra Special / Strong Bitter (ESB)",
+			"abv": "5.5%",
+			"bascore": "79",
+			"broscore": "76"
+		},
+		{
+			"id": "460",
+			"company": "Wormtown Brewing Co.",
+			"name": "Be Hoppy",
+			"url": "http://www.beeradvocate.com/beer/profile/22200/57223",
+			"type": "American IPA",
+			"abv": "6.5%",
+			"bascore": "91",
+			"broscore": "N/A"
+		},
+		{
+			"id": "461",
+			"company": "Wormtown Brewing Co.",
+			"name": "Blonde Cougar",
+			"url": "http://www.beeradvocate.com/beer/profile/22200/57111",
+			"type": "American Blonde Ale",
+			"abv": "5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "462",
+			"company": "Wormtown Brewing Co.",
+			"name": "Hopulence American Double I.P.A.",
+			"url": "http://www.beeradvocate.com/beer/profile/22200/80724",
+			"type": "American Double / Imperial IPA",
+			"abv": "8.5%",
+			"bascore": "N/A",
+			"broscore": "N/A"
+		},
+		{
+			"id": "463",
+			"company": "Wormtown Brewing Co.",
+			"name": "Seven Hills Pale Ale",
+			"url": "http://www.beeradvocate.com/beer/profile/22200/56870",
+			"type": "American Pale Ale (APA)",
+			"abv": "4.5%",
+			"bascore": "83",
+			"broscore": "N/A"
+		}
+	]
+}

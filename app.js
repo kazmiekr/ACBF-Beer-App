@@ -1,11 +1,10 @@
 Ext.application({
     name: 'ACBF',
 
-    requires: [
-        'Ext.MessageBox'
-    ],
-
-    views: ['Main'],
+	models: ['BeerModel'],
+	stores: ['BeerStore','BeerStoreByStyle'],
+	controllers: ['MainController'],
+	views: ['Main','BeerListView','BeerStyleListView'],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -14,7 +13,7 @@ Ext.application({
         '144': 'resources/icons/Icon~ipad@2x.png'
     },
 
-    isIconPrecomposed: true,
+    isIconPrecomposed: false,
 
     startupImage: {
         '320x460': 'resources/startup/320x460.jpg',

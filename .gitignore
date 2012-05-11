@@ -1,3 +1,5 @@
 sdk/
 .idea/
 .senchasdk
+build/
+archive/
