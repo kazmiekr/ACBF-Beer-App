@@ -1,5 +1,6 @@
 Ext.define("ACBF.view.Main", {
     extend: 'Ext.tab.Panel',
+	requires: ['Ext.Panel'],
     config: {
         tabBarPosition: 'bottom',
 		fullscreen: true,
@@ -10,22 +11,45 @@ Ext.define("ACBF.view.Main", {
 				iconCls: 'search',
 				items: [
 					{
-						title: 'Beer List',
-						xtype: 'beerlistview'
+						title: 'Brewery List',
+						xtype: 'companylistview'
 					}
 				]
             },
 			{
 				xtype: 'navigationview',
-				title: 'Styles',
-				iconCls: 'search',
+				title: 'Bookmarks',
+				iconCls: 'bookmarks',
 				items: [
 					{
-						title: 'Beers By Style',
-						xtype: 'beerstylelistview'
+						title: 'Bookmarked Beers',
+						xtype: 'panel'
+					}
+				]
+			},
+			{
+				xtype: 'navigationview',
+				title: 'Rated',
+				iconCls: 'favorites',
+				items: [
+					{
+						title: 'Rated Beers',
+						xtype: 'panel'
+					}
+				]
+			},
+			{
+				xtype: 'navigationview',
+				title: 'Vendor Map',
+				iconCls: 'info',
+				items: [
+					{
+						title: 'Vendor Map',
+						xtype: 'panel'
 					}
 				]
 			}
+
         ]
     }
 });

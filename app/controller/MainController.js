@@ -4,12 +4,12 @@ Ext.define('ACBF.controller.MainController', {
 	config: {
 		refs: {
 			navigationView: 'navigationview',
-			beerList: 'beerlistview'
+			companyList: 'companylistview'
 		},
 
 		control: {
-			beerList:{
-				select: 'onBeerSelect'
+			companyList:{
+				select: 'onCompanySelect'
 			}
 		}
 	},
@@ -17,10 +17,14 @@ Ext.define('ACBF.controller.MainController', {
 	launch: function() {
 		console.log("Loading stores");
 		Ext.getStore('BeerStore').load();
-		Ext.getStore('BeerStoreByStyle').load();
 	},
 
-	onBeerSelect: function(list, record) {
-		console.log("onBeerSelect"+record.get('name'));
+	onCompanySelect: function(list, record) {
+		console.log("onBeerSelect"+record.get('beerList').length);
+		var detailView = Ext.create('ACBF.view.BeerListView', {
+			title: record.get('company'),
+			beers: record.get('beerList')
+		});
+		this.getNavigationView().push(detailView);
 	}
 })

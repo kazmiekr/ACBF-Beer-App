@@ -1,8 +1,8 @@
 Ext.define('ACBF.store.BeerStore', {
 	extend:'Ext.data.Store',
 	config:{
-		sorters: 'name',
-		model: 'ACBF.model.BeerModel',
+		sorters: 'company',
+		model: 'ACBF.model.CompanyModel',
 		grouper:{
 			groupFn: function(record){
 				return record.get('company');
@@ -10,7 +10,7 @@ Ext.define('ACBF.store.BeerStore', {
 		},
 		proxy:{
 			type:'ajax',
-			url:'data/beers.json',
+			url:'data/beerlist.json',
 			reader:{
 				type:'json',
 				rootProperty:'beers'

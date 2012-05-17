@@ -16,7 +16,7 @@
      * This value is needed when build to resolve your application's dependencies if it requires server-side resources
      * that are not accessible via file system protocol.
      */
-    "url": null,
+    "url": "http://localhost/acbf/index.html",
 
     /**
      * List of all JavaScript assets in the right execution order.
@@ -123,8 +123,8 @@
     "buildOptions": {
         "product": "touch",
         "minVersion": 3,
-        "debug": false,
-        "logger": "no"
+        "debug": true,
+        "logger": "yes"
     },
 
     /**

@@ -1,3 +1,7 @@
+
+//$base-color: #CCCCCC;
+//$base-gradient: 'glossy';
+
 @import 'sencha-touch/default/all';
 
 // You may remove any of the following modules that you
@@ -17,3 +21,31 @@
 @include sencha-msgbox;
 
 // Your custom code goes here...
+.beerScore{
+  //font-weight: bold;
+  position: absolute;
+  text-align: right;
+  font-size: 12pt;
+  color: #000000;
+  right: 5px;
+  top: 3px;
+  line-height: 95%;
+  bottom: 3px;
+  border: 1px solid #999;
+  padding: 5px;
+  border-radius: 5px;
+  //box-shadow:rgba(0,0,0,0.5) 0px 0px 24px;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EBFAFF), to(#0799ED));
+}
+
+.beerTitleContainer{
+  position: absolute;
+  top: 0px;
+}
+
+.truncate {
+  width: 220px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

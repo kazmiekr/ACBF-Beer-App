@@ -1,10 +1,10 @@
 Ext.application({
     name: 'ACBF',
 
-	models: ['BeerModel'],
-	stores: ['BeerStore','BeerStoreByStyle'],
+	models: ['BeerModel','CompanyModel'],
+	stores: ['BeerStore'],
 	controllers: ['MainController'],
-	views: ['Main','BeerListView','BeerStyleListView'],
+	views: ['Main','BeerListView','CompanyListView'],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -23,6 +23,7 @@ Ext.application({
         '1536x2008': 'resources/startup/1536x2008.png',
         '1496x2048': 'resources/startup/1496x2048.png'
     },
+	require:[],
 
     launch: function() {
         // Destroy the #appLoadingIndicator element
