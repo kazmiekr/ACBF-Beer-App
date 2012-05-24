@@ -1,10 +1,10 @@
 Ext.application({
     name: 'ACBF',
 
-	models: ['BeerModel','CompanyModel'],
-	stores: ['BeerStore'],
+	models: ['BeerModel','CompanyModel','Bookmark'],
+	stores: ['BeerStore','BookmarkStore'],
 	controllers: ['MainController'],
-	views: ['Main','BeerListView','CompanyListView'],
+	views: ['Main','BeerListView','CompanyListView','BeerDetailView','BookmarkListView'],
 
     icon: {
         '57': 'resources/icons/Icon.png',

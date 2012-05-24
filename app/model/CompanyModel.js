@@ -2,7 +2,7 @@ Ext.define('ACBF.model.CompanyModel', {
 	extend:'Ext.data.Model',
 	config:{
 		fields:[
-			'company',
+			'company'
 		],
 		hasMany: [
 			{
@@ -10,7 +10,7 @@ Ext.define('ACBF.model.CompanyModel', {
 				name: 'beerList',
 				associationKey: 'beerList'
 			}
-		],
+		]
 	}
 });
 

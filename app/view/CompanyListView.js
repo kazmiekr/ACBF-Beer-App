@@ -3,7 +3,7 @@ Ext.define("ACBF.view.CompanyListView", {
 	xtype: 'companylistview',
 	config: {
 		indexBar: true,
-		itemTpl: '<b>{company}</b> - {beerList.length} beer<tpl if="beerList.length != 1">s</tpl>',
+		itemTpl: '<b>{company}</b><br/>{beerList.length} beer<tpl if="beerList.length != 1">s</tpl>',
 		store: 'BeerStore'
 	}
 });

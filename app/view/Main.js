@@ -23,7 +23,7 @@ Ext.define("ACBF.view.Main", {
 				items: [
 					{
 						title: 'Bookmarked Beers',
-						xtype: 'panel'
+						xtype: 'bookmarklistview'
 					}
 				]
 			},
