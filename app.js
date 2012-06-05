@@ -3,7 +3,7 @@ Ext.application({
 
 	models: ['BeerModel','CompanyModel','Bookmark','Rating'],
 	stores: ['BeerStore','BookmarkStore','RatingStore'],
-	controllers: ['MainController'],
+	controllers: ['MainController','DetailViewController'],
 	views: ['Main','BeerListView','CompanyListView','BeerDetailView','BookmarkListView','VendorMapView',
 			'RatingListView','RatingControl'],
 

@@ -11,9 +11,6 @@ Ext.define("ACBF.view.BeerDetailView", {
 		layout: {
 			type: 'vbox'
 		},
-		defaults:{
-			//flex: 1
-		},
 		items:[
 			{
 				xtype: 'label',
@@ -78,34 +75,26 @@ Ext.define("ACBF.view.BeerDetailView", {
 				itemCls : 'x-imageless-star',
 				itemHoverCls : 'x-imageless-hover',
 				itemId: 'overallRating'
-			}/*,
+			},
 			{
 				xtype: 'button',
 				itemId: 'openButton',
 				text: 'View on Beer Advocate'
-			}*/
+			}
 		],
 		listeners: [/*{
 			delegate: '#openButton',
 			event: 'tap',
 			fn: 'openBeerAdvocate'
-		},*/{
+		},{
 			delegate: '#bookmarkButton',
 			event: 'change',
 			fn: 'changeBookmark'
-		}, {
+		},{
 			delegate: 'rating',
 			event: 'change',
 			fn: 'changeRating'
-		}]
-	},
-	changeRating: function(t, n, o){
-		console.log("changeRating: " + n);
-		var s = this.getComponent("smellRating").getValue()+1;
-		var t = this.getComponent("tasteRating").getValue()+1;
-		var m = this.getComponent("mouthfeelRating").getValue()+1;
-		var o = this.getComponent("overallRating").getValue()+1;
-		ACBF.util.StoreUtils.updateRating(this.getBeer(), s, t, m, o);
+		}*/]
 	},
 	updateRating: function(newRating){
 		if (newRating != null){
@@ -113,7 +102,6 @@ Ext.define("ACBF.view.BeerDetailView", {
 			this.getComponent("tasteRating").setValue(newRating.get('taste')-1);
 			this.getComponent("mouthfeelRating").setValue(newRating.get('mouthfeel')-1);
 			this.getComponent("overallRating").setValue(newRating.get('overall')-1);
-			//this.getComponent('ratingControl').setValue(newRating-1);
 		}
 	},
 	updateBookmarked: function(newBookmarked){
@@ -124,37 +112,5 @@ Ext.define("ACBF.view.BeerDetailView", {
 		this.getComponent('companyLabel').setHtml(this.getBeer().get('company'));
 		nameLabel.setHtml(newBeer.get('name'));
 		this.getComponent('typeLabel').setHtml(this.getBeer().get('type') + " | " + this.getBeer().get('abv') + " ABV");
-	},
-	openBeerAdvocate: function(/*t, e, eOpts*/){
-		console.log("BeerDetailView.openBeerAdvocate()");
-
-		/*var baview = Ext.create('ACBF.view.BABeerView', {
-			title: '1Beer Advocate Details',
-			url: this.getBeer().get('url')
-		});
-		this.up('navigationview').push(baview);*/
-
-		window.open(this.getBeer().get('url'));
-	},
-	changeBookmark: function(m, s, t, n, o, eOpts){
-		console.log("BeerDetailView.changeBookmark()" + n + " -old=" + o);
-		var bookmarkStore = Ext.getStore('BookmarkStore');
-		var beerId = this.getBeer().get('id');
-		var index = -1;
-		var bookmark;
-
-		index = bookmarkStore.find('beer_id', beerId);
-		if (index != -1){
-			bookmark = bookmarkStore.removeAt(index);
-		} else {
-			bookmark = new ACBF.model.Bookmark({
-				beer_id: this.getBeer().get('id'),
-				company: this.getBeer().get('company')
-			})
-			bookmark.set('beer', this.getBeer());
-			bookmarkStore.add(bookmark);
-		}
-
-		bookmarkStore.sync();
 	}
 });
