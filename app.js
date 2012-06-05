@@ -1,10 +1,11 @@
 Ext.application({
     name: 'ACBF',
 
-	models: ['BeerModel','CompanyModel','Bookmark'],
-	stores: ['BeerStore','BookmarkStore'],
+	models: ['BeerModel','CompanyModel','Bookmark','Rating'],
+	stores: ['BeerStore','BookmarkStore','RatingStore'],
 	controllers: ['MainController'],
-	views: ['Main','BeerListView','CompanyListView','BeerDetailView','BookmarkListView'],
+	views: ['Main','BeerListView','CompanyListView','BeerDetailView','BookmarkListView','VendorMapView',
+			'RatingListView','RatingControl'],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -23,7 +24,7 @@ Ext.application({
         '1536x2008': 'resources/startup/1536x2008.png',
         '1496x2048': 'resources/startup/1496x2048.png'
     },
-	require:[],
+	requires:['Ext.navigation.View','Ext.data.proxy.LocalStorage'],
 
     launch: function() {
         // Destroy the #appLoadingIndicator element

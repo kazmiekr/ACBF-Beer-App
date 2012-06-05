@@ -1,0 +1,7 @@
+
+Generate builds
+sencha app build testing
+sencha app build production
+
+Compile stylesheets
+$ compass watch resources/sass/

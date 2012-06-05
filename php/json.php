@@ -5,7 +5,7 @@ include 'config.php';
 mysql_connect("$host", "$username", "$password") or die("cannot connect".mysql_error());
 mysql_select_db("$db_name")or die("cannot select DB");
 
-$sql = "SELECT * FROM Beers ORDER BY id";
+$sql = "SELECT * FROM Beers ORDER BY company, name";
 
 $query = mysql_query($sql);
 

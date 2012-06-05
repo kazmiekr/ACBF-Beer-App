@@ -1,11 +1,12 @@
 Ext.define("ACBF.view.Main", {
     extend: 'Ext.tab.Panel',
-	requires: ['Ext.Panel'],
+	requires: ['Ext.Panel','Ext.form.Field'],
     config: {
         tabBarPosition: 'bottom',
 		fullscreen: true,
         items: [
             {
+				itemId: 'beerNavigationView',
 				xtype: 'navigationview',
 				title: 'Beers',
 				iconCls: 'search',
@@ -17,6 +18,7 @@ Ext.define("ACBF.view.Main", {
 				]
             },
 			{
+				itemId: 'bookmarkNavigationView',
 				xtype: 'navigationview',
 				title: 'Bookmarks',
 				iconCls: 'bookmarks',
@@ -34,22 +36,15 @@ Ext.define("ACBF.view.Main", {
 				items: [
 					{
 						title: 'Rated Beers',
-						xtype: 'panel'
+						xtype: 'ratinglistview'
 					}
 				]
 			},
 			{
-				xtype: 'navigationview',
+				xtype: 'vendormapview',
 				title: 'Vendor Map',
-				iconCls: 'info',
-				items: [
-					{
-						title: 'Vendor Map',
-						xtype: 'panel'
-					}
-				]
+				iconCls: 'info'
 			}
-
         ]
     }
 });

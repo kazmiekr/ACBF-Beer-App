@@ -4,7 +4,7 @@ include 'config.php';
 
 //$beerdata = file_get_contents('http://beeradvocate.com/acbf/beer');
 //$beerdata = file_get_contents('small_sample.html');
-$beerdata = file_get_contents('sample.txt');
+$beerdata = file_get_contents('sample.html');
 
 /*
 <h2>Abita Brewing Co.</h2><br>
@@ -21,13 +21,13 @@ mysql_connect("$host", "$username", "$password") or die("cannot connect".mysql_e
 mysql_select_db("$db_name")or die("cannot select DB");
 
 $brewery;
-$data;
+$data = "";
 preg_match_all("/<h2>.*<\/ul>/siU", $beerdata, $matches, PREG_OFFSET_CAPTURE);
 // Gets all the breweries
 foreach($matches[0] as $match)
 {
 	preg_match("/<h2>(.*)<\/h2>/siU", $match[0], $titleMatch);
-	$brewery = $titleMatch[1];
+	$brewery = str_replace("'", "\'", $titleMatch[1]);
 
 	preg_match_all("/<li>(.*)<\/li>/siU", $match[0], $beerMatches, PREG_SET_ORDER);
 
@@ -35,15 +35,22 @@ foreach($matches[0] as $match)
 	foreach($beerMatches as $beerMatch)
 	{
 		preg_match("/<a href=\"(.*)\".*>(.*)<\/a> -- (.*), (.*%)/siU", $beerMatch[1], $beerTitleMatch);
-        $beerTitle = $beerTitleMatch[2];
+        $beerTitle = str_replace("'", "\'", $beerTitleMatch[2]);
 		$beerLink = "http://www.beeradvocate.com".$beerTitleMatch[1];
 		$beerDesc = $beerTitleMatch[3];
 		$beerABV = $beerTitleMatch[4];
 
         $data = $data . $brewery.",".$beerTitle.",".$beerLink.",".$beerDesc.",".$beerABV."<br/>";
 
-		$sql="INSERT INTO $tbl_name(company, name, url, type, abv) VALUES('$brewery', '$beerTitle', '$beerLink', '$beerDesc', '$beerABV')";
-        $result=mysql_query($sql);
+		$searchSQL = "SELECT * FROM $tbl_name WHERE url = '$beerLink'";
+		$result = mysql_query($searchSQL);
+		$numrows = mysql_num_rows($result);
+
+		if ( $numrows == 0 ){
+			$sql="INSERT INTO $tbl_name(company, name, url, type, abv) VALUES('$brewery', '$beerTitle', '$beerLink', '$beerDesc', '$beerABV')";
+            $result=mysql_query($sql);
+            echo "INSERT RECORD: $sql<br/>";
+        }
 	}
 
 }

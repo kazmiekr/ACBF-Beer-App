@@ -1,5 +1,6 @@
 Ext.define('ACBF.model.Bookmark', {
 	extend:'Ext.data.Model',
+	requires:['Ext.data.identifier.Uuid'],
 	config:{
 		identifier: 'uuid',
 		fields:[

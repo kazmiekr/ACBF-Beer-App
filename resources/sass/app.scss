@@ -2,6 +2,11 @@
 //$base-color: #CCCCCC;
 //$base-gradient: 'glossy';
 
+$form-label-background-color: #FFFFFF;
+$form-field-bg-color: #FFFFFF;
+$form-bg-color: #FFFFFF;
+$form-light: #FFFFFF;
+
 @import 'sencha-touch/default/all';
 
 // You may remove any of the following modules that you
@@ -48,4 +53,8 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.detailPanel{
+  background-color: #FFFFFF;
 }
